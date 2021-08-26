@@ -29,19 +29,16 @@ Preamble
    <div align="center"><b>With big thanks to the Librum team:<br>EllieMental, PrivateDelta, EreEric98, Killbotvii, tmt, Destiny, Jayden, JulieChaos, Reina Bunny, Braven, IHateViolence, and Reyqune.</b></div>
    <br/>
 
-*You’re lost in the woods, having narrowly escaped after scaring off a pack of wolves with your travel lantern. Your lantern’s oil finally runs dry, and it’s getting cold. You can conjure basic food and shelter, but your spells all seem to fizzle out in this weather. You need to gather wood in order to sustain a fire and survive the night. With little time to spare, you can’t search far for materials — luckily, you’ve fashioned a basic hatchet the night before, and you can chop down a nearby tree for lumber. After many failed attempts, you sustain a weak flame spell long enough to light your campfire. You fall asleep next to your fire, having prayed to Kynareth to fend off would-be predators. Despite a few interruptions in the night, the morning comes at last, and the sun finally breaks over the horizon.*
+*[Replace with atmospheric description followed by title drop]*
 
-Skyrim SE and VR are both wonderful experiences, but both very familiar ones. Even with all of the modern improvements, we visit the same locales and repeat the same adventures we have since the end of 2011.
+If you're reading this, then there's a good chance that you've played or heard of our other project, Librum[insert link to Librum]. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but with in the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our unique spin and perspective onto Enderal, changing it into something different. Different, more dangerous, with excitement around every corner.
 
-*Librum* is a comprehensive gameplay, graphics, and content overhaul that attempts to change all of this. Combining together some of the best and most popular mods for Skyrim SE, a suite of new quests and adventures that outnumber Skyrim's own, the tradition of great "hardcore" gameplay overhauls that have come before -- like Skyrim's _Requiem_ and _YASH_ or Oblivion's _Oscuro's Oblivion Overhaul_ -- and a host of unique-to-VR immersion improvements, Librum brings new life (and new challenge!) to Skyrim in a way that has never been experienced before.
+This project is currently in early development and won't be release-ready for some time. That said, we look forward to sharing many teasers and updates as we progress on this incredibly exciting project.
 
-Librum is available for both VR and SE. 
 
 Installation Guide
 ------------------
 .. raw:: html
-
-We used to have a link to a video guide here, but it is no longer accurate as of the 3.0 update. The MCM is now configured completely for you. That's right, you can create a character and just start playing!
 
 For more detailed installation information, please see the Installation tab on the left.
 
@@ -51,42 +48,42 @@ User Comments
 
 .. raw:: html
 
-   <div align="center">"This is definitely the most different playthrough I've ever done."</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"I'm not used to the difficulty, but it was probably the most fun I had on Skyrim."</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"It's refreshing. At this point I would have all novice spells that I wanted in a normal playthrough."</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"I don't have enough money to pay followers 500/week."</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"Are bandits meant to attack when you're sleeping in an inn? Kinda like it, I have to admit."</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"Certainly seems like I'll have to treat this like a new game<br>rather than the skyrim I've come to know."</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"Rick Harrison from pawn stars is literally from Librum's Skyrim.<br>[Sword worth 150 Septims] 'Best I can do is 10.'"</div>
+   <div align="center">""</div>
 
 
 .. raw:: html
 
-   <div align="center">"So far I've had a blast with the modlist. Makes Skyrim feel like a new game."</div>
+   <div align="center">""</div>
    
 
 \ 
