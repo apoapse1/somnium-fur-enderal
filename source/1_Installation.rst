@@ -182,7 +182,10 @@ UI Customization
 The UI and UX of your game is a very personal and subjective choice, so we've included a few options for you to choose from:
 
 *
-  **Somnium ENB Selector** *(Defaults to Ominous ENB)* Right-clicking and selecting Reinstall Mod on the Somnium ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
+  **Placeholder** *(Placeholder)* Placeholder text
+
+*
+  **Somnium ENB Selector** *(Defaults to PLACERHOLDER ENB)* Right-clicking and selecting Reinstall Mod on the Somnium ENB Selector will allow you to choose between several included ENB options with various quality presets. If playing Skyrim VR, we’ve also included some reshade options for better sharpening.
 
 **Please note that if you have your Wabbajack Downloads folder outside of the** ``<Somnium Install>/downloads`` **path, you will need to go to your downloads folder, copy the Somnium ENB Selector and Somnium UI Customizer .7z files to your** ``<Somnium Install>/downloads`` **folder before you can Reinstall them in MO2 and use the FOMOD.**
 
