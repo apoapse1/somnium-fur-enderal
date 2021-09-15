@@ -16,8 +16,9 @@ Changelog
 * *Photorealistic Tamriel - Shadow and Flame*
 * *German Voice Files*
 * *Skip Intro* (optional, two flavours)
-* *Spell Rituals*
+* *Apoapse's Augury (Spell Rituals for Enderal)*
 * *Volumetric Mists for Enderal SE*
+* *Death is Highly Overrated*
 
 Removed Mods:
 
