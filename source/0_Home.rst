@@ -33,8 +33,6 @@ Preamble
 
 If you're reading this, then there's a good chance that you've played or heard of our other project, Librum[insert link to Librum]. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but within the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our own unique spin and perspective onto another incredible world, changing it into something different, more dangerous, and with excitement around every corner.
 
-This project is currently in early development and won't be release-ready for some time. That said, we look forward to sharing many teasers and updates as we progress on this incredibly exciting project.
-
 
 Installation Guide
 ------------------
