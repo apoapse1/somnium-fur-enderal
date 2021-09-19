@@ -28,8 +28,8 @@ Preamble
 
    <div align="center"><b>With big thanks to the Librum team:<br>EllieMental, PrivateDelta, EreEric98, Killbotvii, tmt, Destiny, Jayden, JulieChaos, Reina Bunny, Braven, IHateViolence, and Reyqune.</b></div>
    <br/>
-
-*[Replace with atmospheric description followed by title drop]*
+..
+	*[Replace with atmospheric description followed by title drop]*
 
 If you're reading this, then there's a good chance that you've played or heard of our other project, Librum[insert link to Librum]. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but within the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our own unique spin and perspective onto another incredible world, changing it into something different, more dangerous, and with excitement around every corner.
 
@@ -89,9 +89,9 @@ User Comments
 Credits and Thanks
 ------------------
 
-I couldn't have done it without the Librum team:. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
+We couldn't have accomplished all of this without Apoapse's team. They have been a huge part of this process, both creatively and in developing the modlist and its associated resources.
 
 Contact
 -------
 
-For any questions, comments, or suggestions, please join the `Librum Discord server <https://discord.gg/3f8vPYFmJX>`_\ .
+For any questions, comments, or suggestions, please join `Apoapse's Discord server <https://discord.gg/3f8vPYFmJX>`_\ .
