@@ -33,6 +33,17 @@ Preamble
 
 If you're reading this, then there's a good chance that you've played or heard of our other project, Librum[insert link to Librum]. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but within the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our own unique spin and perspective onto another incredible world, changing it into something different, more dangerous, and with excitement around every corner.
 
+The world of Enderal has not been fundamentally changed in Somnium; rather, many aspects have been re-interpreted or remastered. The graphics and atmosphere have been hand-selected to offer the best looking version of Enderal available, complete with new shaders, weather effects, and the ported-specifically-for-Somnium volumetric mists.
+
+Lots of new content has been introduced to the gameworld. This includes many new spells, dungeons, player homes, and more, all chosen to blend naturally within the Enderal world but to contribute to the Somnium vision.
+
+Combat is overhauled in such a way that it resembles games like Dark Souls. This is primarily done through Engarde, True Directional Movement, SmoothCam, Skyrim Souls, and a few other mods to push it in the direction of these games. Stamina and Mana are handled much differently, as both regenerate near-immediately when depleted.
+
+Magic has been changed appropriately, to mimic the Souls-like combat we've introduced. Importantly, magic is implemented in a setting-adapted Vancian system; the first perk in the Magic tree is Augury, and it allows you to "prepare" spells by reaching into the Sea of Eventualities and gathering energies. Unprepared spells are near-impossible to cast for all but the most skilled wizards. Each spell preparation worsens your Arcane Fever by a certain amount.
+
+This is the meat of Somnium: Arcane Fever. As your Fever worsens, your perception of the world around you is overtaken by the Sea of Eventualities. You will hear strange and disembodied voices, see things that may not exist, not see things that may exist, and not even be able to trust the effects of your own abilities.
+
+Fundamentally, **Somnium is a horror game, and it is not for the faint of heart.**
 
 Installation Guide
 ------------------
@@ -44,42 +55,42 @@ User Comments
 -------------
 (Reserved for future use.)
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
 
 
-.. raw:: html
+.. .. raw:: html
 
    <div align="center">""</div>
    
