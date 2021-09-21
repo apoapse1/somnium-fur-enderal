@@ -31,7 +31,7 @@ Preamble
 ..
 	*[Replace with atmospheric description followed by title drop]*
 
-If you're reading this, then there's a good chance that you've played or heard of our other project, Librum[insert link to Librum]. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but within the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our own unique spin and perspective onto another incredible world, changing it into something different, more dangerous, and with excitement around every corner.
+If you're reading this, then there's a good chance that you've played or heard of our other project, Librum. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but within the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our own unique spin and perspective onto another incredible world, changing it into something different, more dangerous, and with excitement around every corner.
 
 The world of Enderal has not been fundamentally changed in Somnium; rather, many aspects have been re-interpreted or remastered. The graphics and atmosphere have been hand-selected to offer the best looking version of Enderal available, complete with new shaders, weather effects, and the ported-specifically-for-Somnium volumetric mists.
 
