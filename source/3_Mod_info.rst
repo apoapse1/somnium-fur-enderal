@@ -1,6 +1,6 @@
 What Is This?
 =============
-This page is dedicated to describing the important mods in this modlist. Note that certain mods will be purposefully omitted here for the purpose of keeping some mystery and suspence. This includes many of the mods that Apoapse has custom-made specifically for this modlist.
+This page is dedicated to describing the important mods in this modlist. Note that certain mods will be purposefully omitted here for the purpose of keeping some mystery and suspense. This includes many of the mods that Apoapse has custom-made specifically for this modlist.
 
 The List
 ^^^^^^^^^^^^^^^^
@@ -34,7 +34,7 @@ The List
 *
   **KataPUMB Spell Package** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/159>`_\ ] Adds 41 new spell archetypes for a grand total of 173 spells which are integrated within Enderal leveled lists. Worth reading the mod page to see all the spells and their effects.
 *
-  **Sink or Swim** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/42962`_\ ] Makes water interactions be how they should have been in the first place. On top of slowing you and NPCs down based on how deep in the water they're in, this introduces a FO4-esque Power Armour system where you will walk underwater if wearing full heavy armour.  
+  **Sink or Swim** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/42962>`_\ ] Makes water interactions be how they should have been in the first place. On top of slowing you and NPCs down based on how deep in the water they're in, this introduces a FO4-esque Power Armour system where you will walk underwater if wearing full heavy armour.  
 *
   **Uninterrupted Invisibility** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/21729>`_\ ] Stops the game from removing invisiblity on you if you interact with something. Quality of life feature that makes invisibility much more viable.
 *
