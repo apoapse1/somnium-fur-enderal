@@ -32,6 +32,18 @@ The List
 *
   **Quick Light SE** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/12633>`_\ ] Simple mod that lets you spawn a light source as either a floating orb that follows you or a lantern attached to your waist.
 *
+  **KataPUMB Spell Package** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/159>`_\ ] Adds 41 new spell archetypes for a grand total of 173 spells which are integrated within Enderal leveled lists. Worth reading the mod page to see all the spells and their effects.
+*
+  **Sink or Swim** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/42962`_\ ] Makes water interactions be how they should have been in the first place. On top of slowing you and NPCs down based on how deep in the water they're in, this introduces a FO4-esque Power Armour system where you will walk underwater if wearing full heavy armour.  
+*
+  **Uninterrupted Invisibility** [\ `Nexus <https://www.nexusmods.com/skyrimspecialedition/mods/21729>`_\ ] Stops the game from removing invisiblity on you if you interact with something. Quality of life feature that makes invisibility much more viable.
+*
+  **Placeholder** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/3>`_\ ] Placeholder text
+*
+  **Placeholder** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/3>`_\ ] Placeholder text
+*
+  **Placeholder** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/3>`_\ ] Placeholder text
+*
   **Placeholder** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/3>`_\ ] Placeholder text
 *
   **Placeholder** [\ `Nexus <https://www.nexusmods.com/enderalspecialedition/mods/3>`_\ ] Placeholder text
