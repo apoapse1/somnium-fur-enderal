@@ -19,8 +19,8 @@ You are being redirected to the Somnium home page.
    redirect
    0_Home
    1_Installation
-   2_FAQ
-   features/index
-   survival/index
+   2_Gameplay
    3_Mod_info
+   4_FAQ
    5_Changelog
+   
