@@ -1,4 +1,4 @@
-Character, Leveling, and Skills
+Leveling, Skills and Memory Points
 -------------------------------
 
 Though they are expanded upon in more detail below, the following changes and mods are core to your character creation and are included here for ease of reference:

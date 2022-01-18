@@ -19,15 +19,15 @@ Preamble
 --------
 
 
-.. image:: https://cdn.discordapp.com/attachments/848318200318787615/879207775379525672/Argh.png
-   :target: https://cdn.discordapp.com/attachments/848318200318787615/879207775379525672/Argh.png
+.. image:: https://cdn.discordapp.com/attachments/819785065700655104/932776024398241802/Start_Screen.png
+   :target: https://cdn.discordapp.com/attachments/819785065700655104/932776024398241802/Start_Screen.png
    :alt: Banner
 
 
 
 .. raw:: html
 
-   <div align="center"><b>With big thanks to the Somnium design team at Scenic Route Games.  Special thanks and acknowledgement to Ixion XVII for all of his Enderal Gameplay Overhaul (EGO) mods and helpful advice, JDsmith for Enderal - My Way and providing us with the bones of Somnium, Tavish for ENB expertise and Tixor for being an invaluable source of information on all things Enderal.</b></div>
+   <div align="center"><b>With big thanks to the Somnium design team at Scenic Route Games.  Special thanks and acknowledgement to: Ixion XVII for all of his Enderal Gameplay Overhaul (EGO) mods and helpful advice, JDsmith for Enderal - My Way and providing us with the bones of Somnium, Tavish for ENB expertise and Tixor for being an invaluable source of information on all things Enderal.</b></div>
    <br/>
 ..
 *A flock of gulls brays against the clouds and a man stumbles through the streets. He mumbles to himself in words and incantations of other lives. His shoulder strikes a passerby and he stumbles to the cobbles. He raises himself in a hurry, his eyes darting frantically to the shadowed alleyways where it hides. It shouldn’t be here, not among so many others. The apartment is not far. The shadows goad him as he flees, they wait eagerly with an insatiable hunger. He crashes up the stairs and locks himself into the safety of home. Even here the whispers find him. He throws open cupboards, dropping dishes and glasses to the floor. It has to be here, this is where he left it. And then there it is, like a light at sea. He greedily takes the vial into his hands and brings the lips to his own, eagerly accepting the kiss of ambrosia and the calm it brings.*
@@ -36,7 +36,10 @@ Preamble
 
 *And deep under the soil, in some forgotten hall of the long dead, you run a rag along your blade. It drips with the blood of the lost ones, the decaying bodies of those turned from the Path. They live again in crimson, a red madness that grips the land. Your head burns as you ready yourself for the room ahead. You can hear whispers crawling from the darkness around you. You trace a sign and a tiny globe casts the room into a cold light. You pinch your eyes closed against the pain that swells in your head. You know what comes next, you can read the history of this foe in the fiendish marks along your arms. But the nightmare ends here. You steel yourself and step into the fray.*
 
-<div align="center">This is **Somnium**</div>
+.. raw:: html
+
+	<div align="center">This is **Somnium**</div>
+..
 
 If you're reading this, then there's a good chance that you've played or heard of our other project, Librum. While that project focuses on an all-encompassing overhaul of *Skyrim,* this project seeks to do the same but within the world of Enderal. Born from the ashes of Enderal My Way, with the blessing of the original maintainer, this project seeks to put our own unique spin and perspective onto another incredible world, changing it into something different, more dangerous, and with excitement around every corner.
 
@@ -50,7 +53,9 @@ Magic has been changed appropriately, to mimic the Souls-like combat we've intro
 
 This is the meat of Somnium: Arcane Fever. As your Fever worsens, your perception of the world around you is overtaken by the Sea of Eventualities. You will hear strange and disembodied voices, see things that may not exist, not see things that may exist, and possibly not even be able to rely on your own abilities. Just remember, the wind chimes are only the beginning.
 
-Fundamentally, **Somnium is a horror game, and it is not for the faint of heart.** We highly recommend playing with headphones on and the lights off for the optimal experience.
+Fundamentally, **Somnium is a horror game, and it is not for the faint of heart.** It is also designed from the ground up to be a third-person shooter with fully-functioning firearms and many mechanics will not work in first person. 
+
+We highly recommend playing with headphones on and lights off for the optimal experience.
 
 Installation Guide
 ------------------
