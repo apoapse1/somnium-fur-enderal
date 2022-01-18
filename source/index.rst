@@ -22,4 +22,5 @@ You are being redirected to the Somnium home page.
    2_FAQ
    features/index
    survival/index
+   3_Mod_info
    5_Changelog
