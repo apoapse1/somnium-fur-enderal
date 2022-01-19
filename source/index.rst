@@ -20,7 +20,8 @@ You are being redirected to the Somnium home page.
    0_Home
    1_Installation
    2_Gameplay
-   3_Mod_info
-   4_FAQ
-   5_Changelog
+   3_Atmosphere
+   4_Character
+   5_FAQ
+   6_Changelog
    
