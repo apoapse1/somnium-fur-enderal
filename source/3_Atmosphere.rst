@@ -3,10 +3,10 @@ Atmosphere
 ==========
 
 Sections:
-- :ref:`Equipment-reference-lable`
-- :ref:`Interface-reference-lable`
-- Worldspace
-- :ref:`Anomalies-reference-lable`
+* :ref:`Equipment-reference-lable`
+* :ref:`Interface-reference-lable`
+* Worldspace
+* :ref:`Anomalies-reference-lable`
 
 The atmosphere of Somnium is crafted from the very best textures and mods we could find among the community, plus many new assets and textures made by the wonderful artists from the team at Scenic Route Games. And everything works in tandem to paint Enderal into a vivid new Age of Sail setting.
 

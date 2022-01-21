@@ -20,26 +20,26 @@ Here you can find an assortment of pillars that act as the new perk trees. Each 
 Level ups also grant the player 5 skill points, and 4 craft points, which they can normally use to read skill books and this will raise their skills.
 
 Your skill points can be spent to increase:
-* Fencing
-* Marksmanship
-* Pistols
-* Block
-* Heavy Armor
-* Light Armor
-* Sneak
-* Psionics
-* Elementalism
-* Mentalism
-* Entropy
-* Light Magic
+#. Fencing
+#. Marksmanship
+#. Pistols
+#. Block
+#. Heavy Armor
+#. Light Armor
+#. Sneak
+#. Psionics
+#. Elementalism
+#. Mentalism
+#. Entropy
+#. Light Magic
 
 Your craft points can be spent to increase:
-* Alchemy
-* Slight of Hand
-* Lockpicking
-* Enchanting
-* Handicraft
-* Rhetoric
+#. Alchemy
+#. Slight of Hand
+#. Lockpicking
+#. Enchanting
+#. Handicraft
+#. Rhetoric
 
 In Somnium, the method to spend skill and craft points has been altered and will be covered in the following section.
 
