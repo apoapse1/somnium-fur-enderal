@@ -6,8 +6,12 @@ Sections:
 
 * :ref:`Equipment-reference-lable`
 * :ref:`Interface-reference-lable`
-* Worldspace
+* :ref:`Worldspace-reference-lable`
 * :ref:`Anomalies-reference-lable`
+
+.. :image: /Resources/Gloomy Wandering.png
+   :alt: DarkForest
+   :align: center
 
 The atmosphere of Somnium is crafted from the very best textures and mods we could find among the community, plus many new assets and textures made by the wonderful artists from the team at Scenic Route Games. And everything works in tandem to paint Enderal into a vivid new Age of Sail setting.
 
@@ -17,6 +21,10 @@ From the lazy, leaden waves of the Sun Coast, to the ravaged and ruined sprawl o
 
 Equipment and Attire
 --------------------
+
+.. :image: /Resources/Attire Wandering.png
+   :alt: newclothes
+   :align: center
 
 The denizens of Enderal now sport a whole new array of clothing that fits the time period we've placed upon the world. You will see lengthy coats, top hats, and glorious gowns decorating the citizens of Ark.  
 
@@ -31,10 +39,31 @@ User Interface
 
 The HUD and UI have been updated as well. Somnium's user interface was chosen for its cleanliness and minimalist design. With the game designed now to be played in third person the HUD was manipulated to fit this choice by ensuring it is tucked out of the way, but that all the necessary information is available as needed.
 
+.. _Worldspace-reference-lable:
+
+The World
+---------
+
+.. :image: /Resources/A Path at Night.png
+   :alt: nightimage1
+   :align: center
+
+The continent of Enderal has never looked so good. Colors pop everywhere you travel. Sunlight crisps into golden rays as it droops behind the ocean. Mushrooms glaze the depths into an alien, emerald green. And the clear waters of the Sun Coast beg travelers to take the moment and soak in the refreshing chill.
+
+And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals.
+
+.. :image: /Resources/Pink Forest.png
+   :alt: PinkForest
+   :align: center
+
 .. _Anomalies-reference-lable:
 
 Anomalies
 ---------
+
+.. :Image: /Resources/Hey Listen.png
+   :alt: Anomaly1
+   :align: center
 
 And so we come to the heart. Anomalies are a feature completely unique to Somnium, and they will change your game completely as you play. These events are tied to your Arcane Fever. As the fever builds inside you, your grip on this reality begins to slip and the many other eventualities of the Sea bleed into this world.
 

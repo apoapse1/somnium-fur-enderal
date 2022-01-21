@@ -8,10 +8,9 @@ Sections:
 * :ref:`Combat-reference-lable`
 * :ref:`Magic-reference-lable`
 
-.. image:: 
-   :target:
-   :alt: Banner
-
+.. image:: /Resources/Point Blank.png
+   :alt: Pistolshot
+   :align: center
 
 Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your ranged weapons have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
 
@@ -30,7 +29,9 @@ The controls for Somnium were decided after some playtesting with various contro
 
 The image below shows the default control set-up for Somnium.
 
-(Picture of Keyboard Layout here)
+.. :image: /Resources/SomniumKeyboardVersion1.png
+   :alt: Keyboard Image
+   :align: center
 
 You can bring up this image in-game at any time by pressing the **'Page Down'** key. Do note, however, that this is a static image and it will not change to reflect any alterations you might make to the controls.
 
@@ -95,7 +96,9 @@ Somnium is designed to be a challenging action/thriller experience. Combat is da
 
 In Somnium, death does not toss you back to a previous save. Instead, dying causes you to resurrect back at the last Earthen Reliquary that you activated.
 
-(Earthen Reliquary Picture)
+.. :image: /Resources/Earthen Reliquary.png
+   :alt: Reliquary
+   :align: center
 
 No one else even seems capable of noticing these petrified birds, nor do they seem to hear their rumbling call. But as you stand before them you can feel the power and sorrow of other lives, of other worlds, rolling upon you like gentle waves of some distant Sea.
 
@@ -128,6 +131,10 @@ While engaging in the story path (major quests), and not simply exploring and do
 Combat
 ------
 
+.. :image: /Resources/Last Suprise.png
+   :alt: WolvenStorm
+   :align: center
+
 As stated earlier, combat in Somnium is dangerous. Low level characters are fragile and death will come quickly. As you level up, explore, and find/make better gear you will quickly rise in power.
 
 There are a lot of options available to characters from the get-go than they have in default Enderal. You can dodge away from enemy attacks now, giving a powerful defensive technique to every character that can make even low level characters capable if the player knows how to use it.
@@ -154,7 +161,10 @@ With the respawn mechanics, death is not as much an inhibitor to progress. Inste
 
 Firearms
 ^^^^^^^^
-(Firearms Picture Here)
+
+.. :image: /Resources/Taking the Shot.png
+   :alt: Rifleshot
+   :align: center
 
 You should find an example of each basic firearm archetype before you even fully depart from the introductory dungeon.
 
