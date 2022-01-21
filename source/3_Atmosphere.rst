@@ -9,7 +9,7 @@ Sections:
 * :ref:`Worldspace-reference-lable`
 * :ref:`Anomalies-reference-lable`
 
-.. :image: /Resources/Gloomy Wandering.png
+.. :image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Gloomy Wandering.png
    :alt: DarkForest
    :align: center
 
@@ -22,7 +22,7 @@ From the lazy, leaden waves of the Sun Coast, to the ravaged and ruined sprawl o
 Equipment and Attire
 --------------------
 
-.. :image: /Resources/Attire Wandering.png
+.. :image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Attire Wandering.png
    :alt: newclothes
    :align: center
 
@@ -44,15 +44,15 @@ The HUD and UI have been updated as well. Somnium's user interface was chosen fo
 The World
 ---------
 
-.. :image: /Resources/A Path at Night.png
+.. :image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/A Path at Night.png
    :alt: nightimage1
    :align: center
 
 The continent of Enderal has never looked so good. Colors pop everywhere you travel. Sunlight crisps into golden rays as it droops behind the ocean. Mushrooms glaze the depths into an alien, emerald green. And the clear waters of the Sun Coast beg travelers to take the moment and soak in the refreshing chill.
 
-And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals.
+And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals with new and expanded weathers and a 
 
-.. :image: /Resources/Pink Forest.png
+.. :image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Pink Forest.png
    :alt: PinkForest
    :align: center
 
@@ -61,7 +61,7 @@ And as you forge your way into the more dangerous climates and locations, the mo
 Anomalies
 ---------
 
-.. :Image: /Resources/Hey Listen.png
+.. :Image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Hey Listen.png
    :alt: Anomaly1
    :align: center
 
