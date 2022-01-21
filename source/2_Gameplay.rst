@@ -2,10 +2,11 @@
 Gameplay & Features
 ===================
 Sections:
-* :ref:`Controls`
-* :ref:`Death`
-* :ref:`Combat`
-* :ref:`Magic`
+
+* Controls <:ref:`Controls`>
+* Death <:ref:`Death`>
+* Combat <:ref:`Combat`>
+* Magic <:ref:`Magic`>
 
 (add image of cool action shot here)
 
@@ -20,7 +21,7 @@ The end result of this effort allows somnium to be playable in third person from
 
 However, these changes also brought necessary changes to the base controls of the game. Somnium adds elements from other genres into the world of Vyn, and many of these elements come with a standardized expectation of controls from players.
 
-Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind needed to be changed (it is now **'T'**_).
+Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind needed to be changed (it is now \**'T'**\_).
 
 The controls for Somnium were decided after some playtesting with various control-schemes, and we ended up with what we felt was the most comfortable blend of expectation and function that we could find.
 
@@ -37,8 +38,8 @@ The image color codes sections to reflect genrealized groupings of use. Purple a
 Purple
 ^^^^^^
 
-* Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the :ref:`Death` section.
-* Below that is the **'Tab'** key which opens the typical middle-menu for Enderal allowing you to choose between the *Inventory*_, *Map*_, and *Magic* sections.
+* Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the Death <:ref:`Death`> section.
+* Below that is the **'Tab'** key which opens the typical middle-menu for Enderal allowing you to choose between the /*Inventory*/_, /*Map*/_, and /*Magic*/ sections.
 * The **'Z'** key opens your favorites menu while you are exploring.
 * The **'Y'** key uses your meditation power, which takes you to the shrine area to spend your memory, skill, and craft points after you level up.
 * The **'U'** key opens your ammo pouch, allowing you to equip different forms of ammunition for your guns.
@@ -107,7 +108,7 @@ Humanity
 ^^^^^^^^
 Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. As your Humanity slips from you, you are subjected to increasingly detrimental effects to your Stamina and Mana pools. If your Humanity is ever completely lost, your story ends.
 
-Characters can restore their humanity at most Earthen Reliquaries by sacrificing a *Memory of the Past*_. These fragments of other times and lives are rare to find, but there are certain entities in the world of Enderal that possess memories powerful enough to use in this process.
+Characters can restore their humanity at most Earthen Reliquaries by sacrificing a /*Memory of the Past*/_. These fragments of other times and lives are rare to find, but the first visit to every shrine grants you one, and there are certain entities in the world of Enderal that possess memories powerful enough to use in this process should you be able to overcome their challenge.
 
 .. _deathSaving-reference-lable:
 
@@ -144,7 +145,7 @@ Because Enderal does not use the typical Skyrim style of character growth, with 
 
 The early game will mostly be made up of learning experiences. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells and talents, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your spells/powers to win the fight. 
 
-With the respawn mechanics, death is not as much an inhibitor to progress. Instead it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few \*Memories*\ at the start if you explore and search for them, so you can safely know you'll be able to recouperate your Humanity a few times if you do end up dying a lot with a high fever level.
+With the respawn mechanics, death is not as much an inhibitor to progress. Instead it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recouperate your Humanity a few times if you do end up dying a lot with a high fever level.
 
 .. _combatGuns-reference-lable:
 
@@ -171,7 +172,7 @@ Magic was always a major theme and feature of Enderal's world. But in Somnium, t
 
 Arcane Fever
 ^^^^^^^^^^^^
-The Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: \*Augury*\_.
+The Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent:\ *Augury*\_.
 
 Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost. And some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active. 
 
