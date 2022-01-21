@@ -34,7 +34,8 @@ Preamble
 
 .. raw:: html
 
-	<div align="center"> **This is Somnium** </div>
+	<div align="center"> This is Somnium </div>
+	------------------------------------------------
 ..
 
 

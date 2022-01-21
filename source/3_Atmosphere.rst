@@ -44,7 +44,7 @@ The HUD and UI have been updated as well. Somnium's user interface was chosen fo
 The World
 ---------
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/A Path at Night.png
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/A%20Path%20at%20Night.png
    :alt: nightimage1
    :align: center
 
