@@ -29,7 +29,7 @@ The controls for Somnium were decided after some playtesting with various contro
 
 The image below shows the default control set-up for Somnium.
 
-.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/SomniumKeyboardVersion1.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/SomniumKeyboardVersion1.png
    :alt: Keyboard Image
    :align: center
 
@@ -112,6 +112,9 @@ The Wait function is limited to these shrines as well. If a quest requires you t
 
 Humanity
 ^^^^^^^^
+
+(Humanity Picture)
+
 Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. As your Humanity slips from you, you are subjected to increasingly detrimental effects to your Stamina and Mana pools. If your Humanity is ever completely lost, your story ends.
 
 Characters can restore their humanity at most Earthen Reliquaries by sacrificing a /*Memory of the Past*/_. These fragments of other times and lives are rare to find, but the first visit to every shrine grants you one, and there are certain entities in the world of Enderal that possess memories powerful enough to use in this process should you be able to overcome their challenge.
