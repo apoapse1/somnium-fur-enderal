@@ -136,6 +136,7 @@ Early Game
 When your character is just starting out you have everything against you. It is the coinciding moment moment where you have the least game-knoledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
 
 There are three core goals of the early game:
+
 #. Experiment with the weapons and armor you find.
 #. Be frugal with your use of talents and magic.
 #. Don't be afraid to get your teeth kicked in a few times.
