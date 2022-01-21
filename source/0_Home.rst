@@ -9,10 +9,6 @@ Introduction
 **A small request: if you enjoy my work, please consider contributing to my Patreon page at the link below. Although I certainly don't expect any donations from users, these sorts of contributions allow me to continue improving and supporting our modlists.**
 
 
-.. raw:: html
-
-	<img src="https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/patreon.png" width="150" height="50">
-
 `Patreon Link <https://www.patreon.com/apoapse?fan_landing=true>`_
 
 Preamble
@@ -38,8 +34,9 @@ Preamble
 
 .. raw:: html
 
-	<div align="center">This is /**Somnium**/_</div>
+	<div align="center">/ **This is Somnium**/_</div>
 ..
+
 
 If you're reading this, then there's a good chance that you've played or heard of our other project, Librum. While that project focuses on a comprehensive adaption of Tamriel's northern province into a harsh, survival experience, Somnium seeks instead to provide players with an overhauled and new take on the world of Enderal and Vyn.
 
