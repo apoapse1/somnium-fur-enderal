@@ -8,7 +8,10 @@ Sections:
 * :ref:`Combat-reference-lable`
 * :ref:`Magic-reference-lable`
 
-(add image of cool action shot here)
+.. image:: 
+   :target:
+   :alt: Banner
+
 
 Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your ranged weapons have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
 

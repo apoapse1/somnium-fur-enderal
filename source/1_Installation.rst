@@ -1,62 +1,54 @@
+Use this: https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.2.1/Wabbajack.exe
+
+
 Installation
 ============
-Somnium makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ program to make installation as fast and painless as possible. Below are the broad steps you will follow for installation, then more specific instructions can be found further down.
-
-#. Install a clean version Enderal: Forgotten Stories (Special Edition) to a folder outside of ``Program Files (86)``_.
-#. Install the Wabbajack desktop client from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_.
-#. Navigate to Somnium under the *Browse for Modlists* tab.
-#. Install Somnium to a new folder outside of ``Program Files``. Be advised that Somnium uses a stock Enderal game folder that is self-contained.
-#. When it has finished intalling (which can take a while depending on your internet), navigate to the install location and run ``Install.bat``
-#. Start a new game via the ``Play Somnium`` button.
-
+Somnium makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ program to make installation as fast and painless as possible.
 
 Pre-Installation
 ^^^^^^^^^^^^^^^^
 
-These steps are only needed if you are installing Somnium for the first time. If you only want to update Somnium, jump straight to `Updating <#updating>`_.
+There are a few things you will need to make sure to have before you can download and play Somnium. First and foremost, you will need at least **190GB** of free space. You can delete the contents of the ``downloads`` folder after it is fully installed to reduce this, however you will need to redownload all the mods when you wish to update the list.
 
-Installing Microsoft Visual C++ Redistributable Package
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*The following steps are only needed if you are installing Somnium for the first time. If you are updating Somnium, jump straight to* :ref:`Updating-reference-lable`
 
-This package is required for Mod Organizer 2 and you can download it from `Microsoft <https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads>`_. Download the x64 version under "Visual Studio 2015, 2017 and 2019". `Direct link <https://aka.ms/vs/16/release/vc_redist.x64.exe>`_ if you can't find it.
+Installing Microsoft Visual C++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+You can download this from `here <https://aka.ms/vs/16/release/vc_redist.x64.exe>`_.
 
-Creating a new Installation Path
-~~~~~~~~~~~~
+Installing Newest .NET Framework
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We need to make sure that Steam won't install the games into the default Program Files Location. This is more complicated, but still not difficult. You should be fine if you follow this `guide
-<https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327>`_
-on how to create a Steam Library folder elsewhere. You only need to follow the "How do I change the default installation path for my games?" section.
+You can grab this package from `here <https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer>`_.
 
-It is not necessary for you to set this new folder as the default install location. We only need to install **Enderal: Forgotten Stories (Special Edition)** into this new location.
+Full-Installation
+^^^^^^^^^^^^^^^^^
 
-**Important** If you only have one drive, Steam will not let you move your installation location.  You can still accomplish this however, by first exiting Steam completely and then simply moving your entire Steam folder to a location outside of ``Program Files``_.  Start steam via the executable in the moved folder and it will recognize this as your new install location.
+With the above packages downloaded, we are ready to install somnium. Installation is simple. Just follow the below instructions, **allowing each to finish before you move on to the next.**
 
-After you have a new Steam Library folder outside of the ``Program Files (x86)`` location, you can install Enderal: Forgotten Stories (Special Edition). When you click to install simply select the newly created folder.
+#. Install the Steam Version of Enderal: Forgotten Stories (Special Edition).
+#. Install `Wabbajack <https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.2.1/Wabbajack.exe>` to the base folder of one of your drives. For example: ``C:\Wabbajack`` is a safe standard. It is best installed on the same drive that you have the game installed.
+#. Open Wabbajack and login to your **Nexus Account** via the gear icon at the top right. **We absolutely recommend you have a premium subscription active for this account while you download Somnium.** Without a premium account, your download will take significantly longer.
+#. Download `Somnium <STAND IN FOR SOMNIUM DISK DOWNLOAD>` and run this. You can set the ``Installation Location`` to the same base folder of your drive that you downloaded Wabbajack to in step #2. The ``Download Location`` should then fill automatically. If it does not, simply point it to a folder called "downloads" that you can make in the ``C:\Somnium`` location.
+#. Allow this installation to run. It will take a while.
+#. Navigate to this installation and run ``Install.bat``
 
-Finally, set the game's language to English. An english version of Skyrim and Enderal configuration files are necessary to install Somnium.
+And congrats! You've installed Somnium. You can launch the game through the ``Launch Somnium`` exe file. Be sure to check the rest of the docs for information about Somnium's changes and enjoy your time!
 
-Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu.
+.. _Updating-reference_lable:
 
+Updating
+^^^^^^^^
 
-Using Wabbajack
-^^^^^^^^^^^^^^^
+If Somnium receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
 
-Preparations
-~~~~~~~~~~~~
+**Wabbajack will delete all files that are not part of the updated modlist when updating!**
 
-Grab the latest release of Wabbajack from `here <https://github.com/wabbajack-tools/wabbajack/releases>`_ and place the ``Wabbajack.exe`` file in a *working folder*. This folder **must not** be in *common folders* like your Desktop, Downloads, or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like ``C:/Wabbajack``.
+This means that any additional mods you have installed on top of Somnium will be deleted. However, your downloads folder will not be touched!
 
-Downloading and Installing
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The download and installation process can take a very long time, depending on your system specs and internet. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
-
-#. Open Wabbajack, browse for Somnium in the Wabbajack client, and click to download it.  
-#. Set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, or Desktop. Put it somewhere easy like ``C:/Modlists/Somnium``\ ). The downloads path should automatically fill in the installation path, but this can be changed if needed.
-#. Click the Go/Begin button.
-#. Wait for Wabbajack to finish.
-#. If you run into any issues, see the next section. If the installation is successful, proceed to `Post-Installation <#post-installation>`_.
+Updating is like installing. You only have to make sure that you select the same path and tick the *Overwrite existing modlist* button.
+Note that some in-game settings will get reset when updating. Check them all again!
 
 Problems with Wabbajack
 """""""""""""""""""""""
@@ -81,16 +73,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 * 
   **Cyclic Redundancy Check error during installation** This could be several things, but the first thing we would recommend is confirming that Wabbajack is not installed in your Documents, Downloads or Program Files folders, then delete the contents of ``%APPDATA%/Local/Wabbajack`` and re-open the app and try again. If this does not resolve the problem, it could be related to drive corruption and you should run CHKDSK on the drive in question.
 
-
-
-Final Steps
-""""""""""""""""""""""
-
-#. Navigate to the Somnium installation location and double-click on ``Install.bat``.  This will create the necessary paths to the game folders.
-#. Double-click ``Play Somnium``.  It may take a minute or two for ENB files to load so just be patient. 
-#. Click ``New Game`` to start your adventure.
-
-
 ENB Presets
 """"""""""""""""
 *
@@ -103,26 +85,6 @@ Alternatively, you can change the Somnium Mod Organizer 2 Downloads directory by
 
 Personalizing the Game
 ~~~~~~~~~~~~~~~~~
-Please note that, by default, Somnium has German voice-over with English subtitles.  This is both to preserve the original vision of Enderal and because the German voice acting is top notch.  If you prefer English audio, uncheck the ``German Voice Files`` mod in the left pane of Mod Organizer 2.
+**Please note that, by default, Somnium has German voice-over with English subtitles.**  This is both to preserve the original vision of Enderal and because the German voice acting is top notch.  If you prefer the (also stellar) English audio, uncheck the ``German Voice Files`` mod in the left pane of Mod Organizer 2.
 
-**There is no MCM customization necessary for Somnium**.  The MCM options for all mods are set automatically to Somnium's standard. This section below this details options to personalize your game if you are not happy with some of the default settings or hotkeys.
-
-#. **Placeholder** Placeholder text
-
-
-Updating
-^^^^^^^^
-
-If Somnium receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the updated modlist when updating!**
-
-This means that any additional mods you have installed on top of Somnium will be deleted. However, your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the *Overwrite existing modlist* button.
-Note that some in-game settings will get reset when updating. Check them all again!
-
-Finished
-^^^^^^^^
-
-Congratulations! You've completed the Somnium setup, and you are ready to play. The next several sections will explain what Somnium is and does, as well as provide support.
+**There is no MCM customization necessary for Somnium**.  The MCM options for all mods are set automatically to Somnium's standard.

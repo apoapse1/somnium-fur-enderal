@@ -3,6 +3,7 @@ Atmosphere
 ==========
 
 Sections:
+
 * :ref:`Equipment-reference-lable`
 * :ref:`Interface-reference-lable`
 * Worldspace
@@ -12,7 +13,7 @@ The atmosphere of Somnium is crafted from the very best textures and mods we cou
 
 From the lazy, leaden waves of the Sun Coast, to the ravaged and ruined sprawl of Thalgard; all throughout the continent players will find scenic vistas as they wander and explore. Then when they delve into the depths and halls beneath the soil they will find oppressive shadows and haunted stones.
 
-.. _Equipment-reference-label_
+.. _Equipment-reference-label:
 
 Equipment and Attire
 --------------------
@@ -23,14 +24,14 @@ Beyond the clothing of everyday citizens, those of a rougher persuasion will fin
 
 Curved blades cut quickly and deeply, bleeding the foe. Old fashioned heavy and straight blades still stand on their own merits of heafty blows. And the long, flexible piercing blades denote those fighters that rely wholly on their agility to emerge victorious from any bout.
 
-.. _Interface-reference-lable_
+.. _Interface-reference-lable:
 
 User Interface
 --------------
 
 The HUD and UI have been updated as well. Somnium's user interface was chosen for its cleanliness and minimalist design. With the game designed now to be played in third person the HUD was manipulated to fit this choice by ensuring it is tucked out of the way, but that all the necessary information is available as needed.
 
-.. _Anomalies-reference-lable_
+.. _Anomalies-reference-lable:
 
 Anomalies
 ---------
