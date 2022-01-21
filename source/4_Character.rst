@@ -13,7 +13,7 @@ In Enderal, characters level up and grow in power through different means to Sky
 
 Enderal Systems
 ^^^^^^^^^^^^^^^
-Enderal completely removes the Skills menu from Skyrim. You are no longer able to access the perk trees at all. Instead you level your character up from a location known as the \**Meditation Zone**\_ which you can access by pressing \**Y**\_.
+Enderal completely removes the Skills menu from Skyrim. You are no longer able to access the perk trees at all. Instead you level your character up from a location known as the **Meditation Zone** which you can access by pressing **Y**.
 
 Here you can find an assortment of pillars that act as the new perk trees. Each level gives the character 1 memory point which they can spend at these pillars to unlock a perk. 
 
@@ -47,7 +47,7 @@ In Somnium, the method to spend skill and craft points has been altered and will
 
 Somnium Leveling
 ^^^^^^^^^^^^^^^^
-Somnium maintains most of Enderal's changes to leveling up and growing your character. The biggest change is made to the \**Meditation Zone**\ and how you allocate your skill and craft points. 
+Somnium maintains most of Enderal's changes to leveling up and growing your character. The biggest change is made to the **Meditation Zone** and how you allocate your skill and craft points. 
 
 Instead of buying tiered books from select vendors, Somnium allows characters to spend thier points directly in this space.
 
