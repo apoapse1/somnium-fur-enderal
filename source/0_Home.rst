@@ -34,7 +34,7 @@ Preamble
 
 .. raw:: html
 
-	<div align="center">**This is Somnium**</div>
+	<div align="center"> **This is Somnium** </div>
 ..
 
 
@@ -44,58 +44,6 @@ Somnium is a thrilling experience that blends elements of horror into the action
 
 At its heart, Somnium is about the Arcane Fever. The everpresent monkey's paw to the Prophet's newfound magical powers. Regardless of your playstyle in Somnium you will build up this fever, and as it builds you will become subjected to increasingly irate anomalies. These may begin simply as a chirp of windchimes, but if it is left to grow the character will slip further and further from a grounded take on their surroundings. The world is ending, but you may lose yourself before that comes.
 
-
-Installation Guide
-------------------
-.. raw:: html
-
-For more detailed installation information, please see the Installation tab on the left.
-
-User Comments
--------------
-(Reserved for future use.)
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-
-
-.. .. raw:: html
-
-   <div align="center">""</div>
-   
-
-\ 
 
 Credits and Thanks
 ------------------

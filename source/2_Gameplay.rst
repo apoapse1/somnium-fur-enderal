@@ -8,7 +8,7 @@ Sections:
 * :ref:`Combat-reference-lable`
 * :ref:`Magic-reference-lable`
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Point Blank.png
+.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Point Blank.png?raw=true
    :alt: Pistolshot
    :align: center
 
@@ -29,7 +29,7 @@ The controls for Somnium were decided after some playtesting with various contro
 
 The image below shows the default control set-up for Somnium.
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/SomniumKeyboardVersion1.png
+.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/SomniumKeyboardVersion1.png?raw=true
    :alt: Keyboard Image
    :align: center
 
@@ -96,7 +96,7 @@ Somnium is designed to be a challenging action/thriller experience. Combat is da
 
 In Somnium, death does not toss you back to a previous save. Instead, dying causes you to resurrect back at the last Earthen Reliquary that you activated.
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Earthen Reliquary.png
+.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Earthen Reliquary.png?raw=true
    :alt: Reliquary
    :align: center
 
@@ -131,7 +131,7 @@ While engaging in the story path (major quests), and not simply exploring and do
 Combat
 ------
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Last Suprise.png
+.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Last Suprise.png?raw=true
    :alt: WolvenStorm
    :align: center
 
@@ -162,7 +162,7 @@ With the respawn mechanics, death is not as much an inhibitor to progress. Inste
 Firearms
 ^^^^^^^^
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Taking the Shot.png
+.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Taking the Shot.png?raw=true
    :alt: Rifleshot
    :align: center
 
