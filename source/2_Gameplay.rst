@@ -160,7 +160,7 @@ Guns give characters a very powerful ranged option so long as they have the ammu
 And not only can any character make use of guns, but they are encouraged to do so. Somnium plays, in many ways, like a shooter. The inclusion of guns fundamentally alters the expectations of engagements.
 
 
-.. _Magic-reference-lable_
+.. _Magic-reference-lable:
 
 Magic
 -----
@@ -168,7 +168,7 @@ Magic
 
 Magic was always a major theme and feature of Enderal's world. But in Somnium, the interesting quirks of Enderal's magic lore have been brought into focus.
 
-.. _magicFever-reference-lable_
+.. _magicFever-reference-lable:
 
 Arcane Fever
 ^^^^^^^^^^^^
@@ -180,7 +180,7 @@ Spells are not the only fever inducing aspect of the character either. Your tale
 
 And of course this fever is fueled further by imbibing any potions touched by magic and by proximity to residual magic energy in the world.
 
-.. _magicMore-reference-lable_
+.. _magicMore-reference-lable:
 
 Spell Expansion
 ^^^^^^^^^^^^^^^
