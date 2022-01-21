@@ -35,8 +35,8 @@ Preamble
 .. raw:: html
 
 	<div align="center"> This is Somnium </div>
-	------------------------------------------------
 ..
+
 
 
 If you're reading this, then there's a good chance that you've played or heard of our other project, Librum. While that project focuses on a comprehensive adaption of Tamriel's northern province into a harsh, survival experience, Somnium seeks instead to provide players with an overhauled and new take on the world of Enderal and Vyn.

@@ -8,7 +8,7 @@ Sections:
 * :ref:`Combat-reference-lable`
 * :ref:`Magic-reference-lable`
 
-.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Point Blank.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Point%20Blank.png
    :alt: Pistolshot
    :align: center
 
@@ -96,7 +96,7 @@ Somnium is designed to be a challenging action/thriller experience. Combat is da
 
 In Somnium, death does not toss you back to a previous save. Instead, dying causes you to resurrect back at the last Earthen Reliquary that you activated.
 
-.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Earthen Reliquary.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Earthen%20Reliquary.png
    :alt: Reliquary
    :align: center
 
@@ -134,7 +134,7 @@ While engaging in the story path (major quests), and not simply exploring and do
 Combat
 ------
 
-.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Last Suprise.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Last%20Suprise.png
    :alt: WolvenStorm
    :align: center
 
@@ -165,7 +165,7 @@ With the respawn mechanics, death is not as much an inhibitor to progress. Inste
 Firearms
 ^^^^^^^^
 
-.. image:: https://raw.githubusecontent.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Taking the Shot.png?raw=true
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Taking%20the%20Shot.png
    :alt: Rifleshot
    :align: center
 
