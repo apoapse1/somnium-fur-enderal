@@ -1,6 +1,6 @@
 Sections:
-* :ref:`Growth`
-* :ref:`Affinities`
+* :ref:`Growth-reference-lable`
+* :ref:`Affinities-reference-lable`
 
 .. _Growth-reference-section:
 

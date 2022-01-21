@@ -3,10 +3,10 @@ Gameplay & Features
 ===================
 Sections:
 
-* :ref:`Controls`
-* :ref:`Death`
-* :ref:`Combat`
-* :ref:`Magic`
+* :ref:`Controls-reference-lable`
+* :ref:`Death-reference-lable`
+* :ref:`Combat-reference-lable`
+* :ref:`Magic-reference-lable`
 
 (add image of cool action shot here)
 
@@ -38,7 +38,7 @@ The image color codes sections to reflect genrealized groupings of use. Purple a
 Purple
 ^^^^^^
 
-* Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the :ref:`Death` section.
+* Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the :ref:`Death-reference-lable` section.
 * Below that is the **'Tab'** key which opens the typical middle-menu for Enderal allowing you to choose between the Inventory, Map, and Magic sections.
 * The **'Z'** key opens your favorites menu while you are exploring.
 * The **'Y'** key uses your meditation power, which takes you to the shrine area to spend your memory, skill, and craft points after you level up.
