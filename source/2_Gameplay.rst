@@ -156,6 +156,8 @@ You should find an example of each basic firearm archetype before you even fully
 
 Guns give characters a very powerful ranged option so long as they have the ammunition. Even without perks, these weapons work great as an opener for any character build. While exploring, even a mage-based character could make use of a pistol to kill minor targets without needing to cast their spells and therefore build up their fever even further.
 
+And not only can any character make use of guns, but they are encouraged to do so. Somnium plays, in many ways, like a shooter. The inclusion of guns fundamentally alters the expectations of engagements.
+
 
 .. _Magic-reference-lable_
 
