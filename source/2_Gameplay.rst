@@ -3,10 +3,10 @@ Gameplay & Features
 ===================
 Sections:
 
-* Controls <:ref:`Controls`>
-* Death <:ref:`Death`>
-* Combat <:ref:`Combat`>
-* Magic <:ref:`Magic`>
+* Controls<:ref:`Controls`>
+* Death<:ref:`Death`>
+* Combat<:ref:`Combat`>
+* Magic<:ref:`Magic`>
 
 (add image of cool action shot here)
 
@@ -21,7 +21,7 @@ The end result of this effort allows somnium to be playable in third person from
 
 However, these changes also brought necessary changes to the base controls of the game. Somnium adds elements from other genres into the world of Vyn, and many of these elements come with a standardized expectation of controls from players.
 
-Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind needed to be changed (it is now \**'T'**\_).
+Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind needed to be changed (it is now bound to the **'T'** key).
 
 The controls for Somnium were decided after some playtesting with various control-schemes, and we ended up with what we felt was the most comfortable blend of expectation and function that we could find.
 
@@ -38,8 +38,8 @@ The image color codes sections to reflect genrealized groupings of use. Purple a
 Purple
 ^^^^^^
 
-* Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the Death <:ref:`Death`> section.
-* Below that is the **'Tab'** key which opens the typical middle-menu for Enderal allowing you to choose between the /*Inventory*/_, /*Map*/_, and /*Magic*/ sections.
+* Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the Death<:ref:`Death`> section.
+* Below that is the **'Tab'** key which opens the typical middle-menu for Enderal allowing you to choose between the Inventory, Map, and Magic sections.
 * The **'Z'** key opens your favorites menu while you are exploring.
 * The **'Y'** key uses your meditation power, which takes you to the shrine area to spend your memory, skill, and craft points after you level up.
 * The **'U'** key opens your ammo pouch, allowing you to equip different forms of ammunition for your guns.
@@ -136,7 +136,6 @@ Early Game
 When your character is just starting out you have everything against you. It is the coinciding moment moment where you have the least game-knoledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
 
 There are three core goals of the early game:
-
 # Experiment with the weapons and armor you find.
 # Be frugal with your use of talents and magic.
 # Don't be afraid to get your teeth kicked in a few times.
@@ -172,7 +171,7 @@ Magic was always a major theme and feature of Enderal's world. But in Somnium, t
 
 Arcane Fever
 ^^^^^^^^^^^^
-The Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent:\ *Augury*\_.
+The Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*.
 
 Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost. And some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active. 
 
