@@ -52,7 +52,7 @@ The continent of Enderal has never looked so good. Colors pop everywhere you tra
 
 And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals with new and expanded weathers and a 
 
-.. image:: https://rawgithubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Pink%20Forest.png
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Pink%20Forest.png
    :alt: PinkForest
    :align: center
 
