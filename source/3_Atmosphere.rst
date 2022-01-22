@@ -9,7 +9,7 @@ Sections:
 * :ref:`Worldspace-reference-lable`
 * :ref:`Anomalies-reference-lable`
 
-.. image:: https://githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Gloomy%20Wandering.png
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Moody%20Woods.png
    :alt: DarkForest
    :align: center
 
@@ -22,7 +22,7 @@ From the lazy, leaden waves of the Sun Coast, to the ravaged and ruined sprawl o
 Equipment and Attire
 --------------------
 
-.. image:: https://githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Attire%20Wandering.png
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Attire%20Wandering.png
    :alt: newclothes
    :align: center
 
@@ -61,7 +61,7 @@ And as you forge your way into the more dangerous climates and locations, the mo
 Anomalies
 ---------
 
-.. Image:: https://githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Hey%20Listen.png
+.. Image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Hey%20Listen.png
    :alt: Anomaly1
    :align: center
 

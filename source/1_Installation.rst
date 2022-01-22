@@ -1,6 +1,3 @@
-Use this: https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.2.1/Wabbajack.exe
-
-
 Installation
 ============
 Somnium makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ program to make installation as fast and painless as possible.
