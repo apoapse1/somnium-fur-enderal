@@ -50,7 +50,7 @@ The World
 
 The continent of Enderal has never looked so good. Colors pop everywhere you travel. Sunlight crisps into golden rays as it droops behind the ocean. Mushrooms glaze the depths into an alien, emerald green. And the clear waters of the Sun Coast beg travelers to take the moment and soak in the refreshing chill.
 
-And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals with new and expanded weathers and a 
+And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals with new and expanded weathers and lighting. 
 
 .. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Pink%20Forest.png
    :alt: PinkForest
