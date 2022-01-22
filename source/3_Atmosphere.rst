@@ -52,7 +52,7 @@ The continent of Enderal has never looked so good. Colors pop everywhere you tra
 
 And as you forge your way into the more dangerous climates and locations, the mood changes to match these locals with new and expanded weathers and a 
 
-.. image:: https://github.com/apoapse1/somnium-fur-enderal/tree/main/Resources/Pink Forest.png
+.. image:: https://rawgithubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Pink%20Forest.png
    :alt: PinkForest
    :align: center
 
@@ -64,6 +64,7 @@ Anomalies
 .. Image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Hey%20Listen.png
    :alt: Anomaly1
    :align: center
+   :scale: 60%
 
 And so we come to the heart. Anomalies are a feature completely unique to Somnium, and they will change your game completely as you play. These events are tied to your Arcane Fever. As the fever builds inside you, your grip on this reality begins to slip and the many other eventualities of the Sea bleed into this world.
 
