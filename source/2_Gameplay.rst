@@ -12,7 +12,7 @@ Sections:
    :alt: Pistolshot
    :align: center
 
-Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your ranged weapons have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
+Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your rifles have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
 
 .. _Controls-reference-lable:
 
@@ -35,7 +35,7 @@ The image below shows the default control set-up for Somnium.
 
 You can bring up this image in-game at any time by pressing the **'Page Down'** key. Do note, however, that this is a static image and it will not change to reflect any alterations you might make to the controls.
 
-The image color codes sections to reflect genrealized groupings of use. Purple are menu keys, Green are combat keys, and Red are utility keys. Gray/Black keys are for basic movement. Going through this image I will quickly list the actions each icon connects to:
+The image color codes sections to reflect generalized groupings of use. Purple are menu keys, Green are combat keys, and Red are utility keys. Gray/Black keys are for basic movement. Going through this image I will quickly list the actions each icon connects to:
 
 .. _controlsPurple-reference-lable:
 
@@ -45,10 +45,10 @@ Purple
 * Starting at the top left we have the **'Escape'** key, which does as you would expect and opens the settings menu for the game. You will notice that the options here may not match what you are used to, we will discuss that in the :ref:`Death-reference-lable` section.
 * Below that is the **'Tab'** key which opens the typical middle-menu for Enderal allowing you to choose between the Inventory, Map, and Magic sections.
 * The **'Z'** key opens your favorites menu while you are exploring.
-* The **'Y'** key uses your meditation power, which takes you to the shrine area to spend your memory, skill, and craft points after you level up.
+* The **'Y'** key uses your meditation power, which takes you to and from the shrine area to spend your memory, skill, and craft points after you level up.
 * The **'U'** key opens your ammo pouch, allowing you to equip different forms of ammunition for your guns.
-* The **'I'** key opens the Inventoty screen without needing to enter the middle-menu.
-* The **'H'** key opens the Hero menu, which shows the player their character's stats and current XP.
+* The **'I'** key opens the Inventory screen without needing to enter the middle-menu.
+* The **'H'** key opens the Hero menu, which shows the player their character's stats, fever level, and current XP.
 * The **'J'** key opens the player's Journal, showing your quests.
 * The **'K'** key opens the Magic screen without needing to enter the middle-menu.
 * The **'M'** key enters opens the Map screen without needing to enter the middle-menu.
@@ -63,7 +63,7 @@ Green
 * The **'Left Shift'** key operates as a modifier, changing your movement into sprinting, and your attacks into power attacks.
 * The **'C'** key activates the lock-on.
 * The **'Left Control'** key enters the stealth mode.
-* And the **'Left Alt'** key activates your dodge, or defensive movement, which is a slide.
+* And the **'Left Alt'** key activates your dodge, or defensive movement, which is a slide. This only works when your weapon(s) is/are drawn.
 
 .. _controlsRed-reference-lable:
 
@@ -72,7 +72,7 @@ Red
 
 * The **'Q'** key activates your belt-light, illuminating dark areas.
 * The **'F'** key activates your equipped talent (read: Power).
-* The **'G'** key calls your *Aparition* if you use the Phasmalist tree.
+* The **'G'** key calls your *Apparition* if you use the Phasmalist tree.
 * The **'V'** key calls your mount, assuming you have a mount.
 
 .. _controlsExtra-reference-lable
@@ -104,26 +104,24 @@ No one else even seems capable of noticing these petrified birds, nor do they se
 
 These avian shrines act as checkpoints. At most of them you are able to open an unlimited storage, skip time, and restore your Humanity. 
 
-The Reliquaries utilize a shared storage, allowing you to stock your loot into them out in the wilds and then draw it out in batches to sell back in town. You can also store useful preperation equipment such as buffing potions and the, now-heavy, Ambrosia.
+The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town. You can also store useful preperation equipment such as buffing potions and the, now-heavy, Ambrosia.
 
-The Wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location.
+The wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location.
 
 .. _deathHumanity-reference-lable:
 
 Humanity
 ^^^^^^^^
 
-(Humanity Picture)
-
 Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. As your Humanity slips from you, you are subjected to increasingly detrimental effects to your Stamina and Mana pools. If your Humanity is ever completely lost, your story ends.
 
-Characters can restore their humanity at most Earthen Reliquaries by sacrificing a /*Memory of the Past*/_. These fragments of other times and lives are rare to find, but the first visit to every shrine grants you one, and there are certain entities in the world of Enderal that possess memories powerful enough to use in this process should you be able to overcome their challenge.
+Characters can restore their humanity at most Earthen Reliquaries by sacrificing a **Memory of the Past**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain entities in the world of Enderal that possess memories powerful enough to sacrifice should you be able to overcome their challenge.
 
 .. _deathSaving-reference-lable:
 
 Saving
 ^^^^^^
-Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Everytime you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment, but could stretch slightly longer as you progress in the game. **Please do not close the game while it is saving.** Some Reliquaries will not open a menu, for these simply activating them causes the save to begin.
+Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Everytime you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment, but could stretch slightly longer as you progress in the game. **Please do not close the game while it is saving.**
 
 The game also autosaves your progress every minute, making sure that you don't lose any progress should you need to log off without a shrine near. When you load your game after this, it will still spawn you at the last shrine you activated, however you will have all the progress you accomplished still standing, and will only need to find your way back to the location you logged out from.
 
@@ -140,13 +138,13 @@ Combat
 
 As stated earlier, combat in Somnium is dangerous. Low level characters are fragile and death will come quickly. As you level up, explore, and find/make better gear you will quickly rise in power.
 
-There are a lot of options available to characters from the get-go than they have in default Enderal. You can dodge away from enemy attacks now, giving a powerful defensive technique to every character that can make even low level characters capable if the player knows how to use it.
+There are a lot more options available to characters from the get-go than they would have in default Enderal. You can dodge away from enemy attacks now, giving a powerful defensive technique to every character that can make even low level characters capable if the player knows how to use it.
 
 .. _combatEarly-reference-lable:
 
 Early Game
 ^^^^^^^^^^
-When your character is just starting out you have everything against you. It is the coinciding moment moment where you have the least game-knoledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
+When your character is just starting out you have everything against you. It is the coinciding moment moment where you have the least game-knowledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
 
 There are three core goals of the early game:
 
@@ -169,7 +167,7 @@ Firearms
    :alt: Rifleshot
    :align: center
 
-You should find an example of each basic firearm archetype before you even fully depart from the introductory dungeon.
+You should find an example of each basic firearm archetype before you even fully depart from the starting temple and valley.
 
 Guns give characters a very powerful ranged option so long as they have the ammunition. Even without perks, these weapons work great as an opener for any character build. While exploring, even a mage-based character could make use of a pistol to kill minor targets without needing to cast their spells and therefore build up their fever even further.
 
@@ -180,7 +178,10 @@ And not only can any character make use of guns, but they are encouraged to do s
 
 Magic
 -----
-(Cool Picture of Dual Summoning Casting with Runes)
+
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Magic%20Casting.png
+   :alt: Magic
+   :align: center
 
 Magic was always a major theme and feature of Enderal's world. But in Somnium, the interesting quirks of Enderal's magic lore have been brought into focus.
 
@@ -188,20 +189,24 @@ Magic was always a major theme and feature of Enderal's world. But in Somnium, t
 
 Arcane Fever
 ^^^^^^^^^^^^
-The Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*.
+Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*.
 
-Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost. And some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active. 
+Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active. 
 
-Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will slowly cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
+Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
 
 And of course this fever is fueled further by imbibing any potions touched by magic and by proximity to residual magic energy in the world.
+
+The ability to reduce your fever is also more challenging than it was in Enderal. You'll find ambrosia now weighs more and its effect on your fever has been lessened. Powerful alchemists will still be able to push the usefulness of ambrosia further, and now the potency will be noticeably better than purchased vials.
+
+Characters are expected to be suffering from the effects of the fever as they progress through the game. The reasons and goals of this will be expanded on in the **Atmosphere** section. As a result of this, your character will not suffer the negative stat effects of the fever as it compounds, instead there are a variety of new gameplay alterations that the fever controls.
 
 .. _magicMore-reference-lable:
 
 Spell Expansion
 ^^^^^^^^^^^^^^^
-The number of spell effects have been greately increased as well. Players will find a vast array of spells to use for each magical discipline.
+The number of spell effects have been greatly increased in Somnium as well. Players will find a vast array of spells to use for each magical discipline.
 
 Players will find offensive Light Magic spells that will help them to better combat the Lost Ones, effective touch spells for the battlemage clad in heavy armor to put to use, new summons that can be paired together so the mage never needs to be in harms way, and many more.
 
-With all of these, magic becomes a very effective and versitile skill set for the players that want to walk the line with their Arcane Fever.
+With all of these, magic becomes a very effective and versatile skill set for the players that want to walk the line with their Arcane Fever.

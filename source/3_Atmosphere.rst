@@ -28,14 +28,18 @@ Equipment and Attire
 
 The denizens of Enderal now sport a whole new array of clothing that fits the time period we've placed upon the world. You will see lengthy coats, top hats, and glorious gowns decorating the citizens of Ark.  
 
-Beyond the clothing of everyday citizens, those of a rougher persuasion will find their tools have changed too. Plate armor has faded into obscurity and the weapons designed to combat it followed soon after. Now is an age of the duelist. The people of the world will sport a variety of new blades.
+Beyond the clothing of everyday citizens, those of a rougher persuasion will find their tools have changed too. Plate armor has faded into obscurity and the weapons designed to combat it followed soon after. Now is an age of the duelist. The people of the world will sport a variety of new blades and armored vestments.
 
-Curved blades cut quickly and deeply, bleeding the foe. Old fashioned heavy and straight blades still stand on their own merits of heafty blows. And the long, flexible piercing blades denote those fighters that rely wholly on their agility to emerge victorious from any bout.
+Curved blades cut quickly and deeply, bleeding the foe. Old fashioned heavy and straight blades still stand on their own merits of balanced, hefty blows. And the long, flexible piercing blades denote those fighters that rely wholly on their agility and precision to emerge victorious from any bout.
 
 .. _Interface-reference-lable:
 
 User Interface
 --------------
+
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Prime%20HUD.png
+   :alt: HUDbleh
+   :align: center
 
 The HUD and UI have been updated as well. Somnium's user interface was chosen for its cleanliness and minimalist design. With the game designed now to be played in third person the HUD was manipulated to fit this choice by ensuring it is tucked out of the way, but that all the necessary information is available as needed.
 
@@ -56,6 +60,8 @@ And as you forge your way into the more dangerous climates and locations, the mo
    :alt: PinkForest
    :align: center
 
+In the great city of Ark, the Holy Order has been forced to rely on evermore extreme methods of keeping the peace as the world unravels around them. Print has allowed a new form of propoganda to flourish in the city, and you will find an array of posters placed all over the city.
+
 .. _Anomalies-reference-lable:
 
 Anomalies
@@ -70,7 +76,7 @@ And so we come to the heart. Anomalies are a feature completely unique to Somniu
 
 Alien sounds ring without a source, phantoms and nightmares haunt your steps, and even the things you believe to be real will prove you a liar.
 
-If you let the fever grow to even higher levels, to the dangerous peaks of what your brain can handle, your sight will fully change; color might fade to greyscale, and time might seem to pass you by at unnatural rates.
+If you let the fever grow to even higher levels, to the dangerous peaks of what your brain can handle, your sight will fully change; color might fade, and time might seem to pass you by at unnatural rates.
 
 Anomalies cause the gameplay of Somnium to be in a constant flux state. As your fever builds and wanes you experience the world in completely different ways. Somnium is designed to work with this flux state, to allow these anomalies to influence the game while also keeping it running and moving along smoothly and even tying most of the other core mechanics to these. 
 
