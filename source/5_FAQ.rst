@@ -4,11 +4,8 @@ Frequently Asked Questions
 Support and Community
 ---------------------
 
-**Why is my game in German?**
- - Unfortunately, it seems you did not read the installation instructions!  Somnium is defaulted to German voice over with English Subtitles.  If you prefer English audio, uncheck the ``German Voice Files`` mod in the left pane of Mod Organizer 2.
-
 **I have a suggestion!**
- - If you believe your suggestion would be a good fit for Librum, and you don't see it on our Trello *place holder* or in our #suggestions channel in our `Discord <https://discord.com/invite/BnUHUswABG>`_\ , please fill out this Google Form: *place holder*
+ - If you believe your suggestion would be a good fit for Somnium, and you don't see it on our Trello *place holder* or in our #suggestions channel in our `Discord <https://discord.com/invite/BnUHUswABG>`_\ , please fill out this Google Form: *place holder*
  
 **I found a bug!**
  - If you're certain it's a bug, and you can reproduce it, please fill out this Google Form: *place holder*
@@ -16,8 +13,6 @@ Support and Community
 **I found an error in the readme!**
  - I opened a channel for these comments specifically.
  
- **Place Holder**
- - 
  
 Setup and Installation
 ----------------------
@@ -31,6 +26,4 @@ Setup and Installation
 **What difficulty setting is recommended?**
  - Somnium is built around adept difficulty and this is the optimal experience.  The game is difficult but if you would like to increase the difficulty, please feel free!
  
- **Place Holder**
- - 
 

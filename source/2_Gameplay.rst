@@ -25,7 +25,7 @@ However, these changes also brought necessary changes to the base controls of th
 
 Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind needed to be changed (it is now bound to the **'T'** key).
 
-The controls for Somnium were decided after some playtesting with various control-schemes, and we ended up with what we felt was the most comfortable blend of expectation and function that we could find.
+The controls for Somnium were decided after significant playtesting and deliberation, and we ended up with what we felt was the most comfortable blend of expectation and function that we could find.
 
 The image below shows the default control set-up for Somnium.
 
@@ -59,11 +59,11 @@ Purple
 Green
 ^^^^^
 
-* The **'R'** key reloads your equipped firearm. You need a form of ammuntion selected for use in the *Ammo Pouch* for this to work.
+* The **'R'** key primarily reloads your equipped firearm. If you have no selected ammunition currently, the key will instead open the *Ammo Pouch* for you to select an ammunition first.
 * The **'Left Shift'** key operates as a modifier, changing your movement into sprinting, and your attacks into power attacks.
 * The **'C'** key activates the lock-on.
 * The **'Left Control'** key enters the stealth mode.
-* And the **'Left Alt'** key activates your dodge, or defensive movement, which is a slide. This only works when your weapon(s) is/are drawn.
+* And the **'Left Alt'** key activates your dodge. This only works when your weapon(s) is/are drawn.
 
 .. _controlsRed-reference-lable:
 
@@ -92,7 +92,7 @@ Extra
 Death
 -----
 
-Somnium is designed to be a challenging action/thriller experience. Combat is dangerous for all parties involved and the player has a greatly expanded suite of option they can use to build their character up against the dangers. In the beginning you might die fairly often, you are weak and have the fewest tools at your disposal.
+Somnium is designed to be a challenging action/thriller experience. Combat is dangerous for all parties involved and the player has a greatly expanded suite of options they can use to build their character up against the dangers. In the beginning you might die fairly often, you are weak and have the fewest tools at your disposal.
 
 In Somnium, death does not toss you back to a previous save. Instead, dying causes you to resurrect back at the last Earthen Reliquary that you activated.
 
@@ -102,7 +102,7 @@ In Somnium, death does not toss you back to a previous save. Instead, dying caus
 
 No one else even seems capable of noticing these petrified birds, nor do they seem to hear their rumbling call. But as you stand before them you can feel the power and sorrow of other lives, of other worlds, rolling upon you like gentle waves of some distant Sea.
 
-These avian shrines act as checkpoints. At most of them you are able to open an unlimited storage, skip time, and restore your Humanity. 
+These avian shrines act as checkpoints. You are able to open an unlimited storage, skip time, and restore your Humanity at any shrine you find. 
 
 The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town. You can also store useful preperation equipment such as buffing potions and the, now-heavy, Ambrosia.
 
@@ -115,17 +115,15 @@ Humanity
 
 Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. As your Humanity slips from you, you are subjected to increasingly detrimental effects to your Stamina and Mana pools. If your Humanity is ever completely lost, your story ends.
 
-Characters can restore their humanity at most Earthen Reliquaries by sacrificing a **Memory of the Past**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain entities in the world of Enderal that possess memories powerful enough to sacrifice should you be able to overcome their challenge.
+Characters can restore their humanity at Earthen Reliquaries by sacrificing a **Memory**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain entities in the world of Enderal that possess memories powerful enough to sacrifice should you be able to overcome their challenge.
 
 .. _deathSaving-reference-lable:
 
 Saving
 ^^^^^^
-Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Everytime you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment, but could stretch slightly longer as you progress in the game. **Please do not close the game while it is saving.**
+Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Everytime you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment and you will recieve a notification when the game has completed saving. **Please do not close the game while it is saving.**
 
 The game also autosaves your progress every minute, making sure that you don't lose any progress should you need to log off without a shrine near. When you load your game after this, it will still spawn you at the last shrine you activated, however you will have all the progress you accomplished still standing, and will only need to find your way back to the location you logged out from.
-
-While engaging in the story path (major quests), and not simply exploring and doing side quests, it is recommended to log out after a shrine-save due to the way that scripting can affect autosaves.
 
 .. _Combat-reference-lable:
 
@@ -144,7 +142,7 @@ There are a lot more options available to characters from the get-go than they w
 
 Early Game
 ^^^^^^^^^^
-When your character is just starting out you have everything against you. It is the coinciding moment moment where you have the least game-knowledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
+When your character is just starting out you have everything against you. It is the coinciding moment where you have the least game-knowledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
 
 There are three core goals of the early game:
 
@@ -156,7 +154,7 @@ Because Enderal does not use the typical Skyrim style of character growth, with 
 
 The early game will mostly be made up of learning experiences. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells and talents, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your spells/powers to win the fight. 
 
-With the respawn mechanics, death is not as much an inhibitor to progress. Instead it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recouperate your Humanity a few times if you do end up dying a lot with a high fever level.
+With the respawn mechanics, death is not as much an inhibitor to progress. Instead it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
 
 .. _combatGuns-reference-lable:
 
@@ -189,9 +187,11 @@ Magic was always a major theme and feature of Enderal's world. But in Somnium, t
 
 Arcane Fever
 ^^^^^^^^^^^^
-Arcane Fever, a horrible side effect faced by all who can wield magic on Vyn, is now at center stage. For every spell, the aspiring arcanist must reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*.
+Enderal introduced the idea of the Arcane Fever, however Somnium fully commits to it. For every spell, the aspiring arcanist must first reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*. This talent allows for a character to prepare spells in a system inspired by old Vancian magic systems.
 
-Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active. 
+Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
+
+As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their fever.
 
 Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
 

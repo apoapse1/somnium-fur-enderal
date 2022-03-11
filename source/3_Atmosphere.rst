@@ -37,11 +37,13 @@ Curved blades cut quickly and deeply, bleeding the foe. Old fashioned heavy and 
 User Interface
 --------------
 
-.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Prime%20HUD.png
+The HUD and UI have been updated as well. Somnium's user interface was chosen for its cleanliness and minimalist design. With the game designed now to be played in third person the HUD was manipulated to fit this choice by ensuring it is tucked out of the way, but that all the necessary information is available as needed.
+
+However, Somnium's HUD marks a drastic shift from the Skyrim standard. Instead of the three seperated bars constantly appearing and disapearing across your screen, now all have been merged together. If you are having an initial difficulty with the HUD, below is a representation of where each bar now resides and the direction it drains. When a certain bar is empy it will also flash its dedicated color (red for helath, green for stamina, and blue for mana) when you are attempting to use an ability that requires the missing resource.
+
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/HUD.png
    :alt: HUDbleh
    :align: center
-
-The HUD and UI have been updated as well. Somnium's user interface was chosen for its cleanliness and minimalist design. With the game designed now to be played in third person the HUD was manipulated to fit this choice by ensuring it is tucked out of the way, but that all the necessary information is available as needed.
 
 .. _Worldspace-reference-lable:
 
@@ -78,6 +80,6 @@ Alien sounds ring without a source, phantoms and nightmares haunt your steps, an
 
 If you let the fever grow to even higher levels, to the dangerous peaks of what your brain can handle, your sight will fully change; color might fade, and time might seem to pass you by at unnatural rates.
 
-Anomalies cause the gameplay of Somnium to be in a constant flux state. As your fever builds and wanes you experience the world in completely different ways. Somnium is designed to work with this flux state, to allow these anomalies to influence the game while also keeping it running and moving along smoothly and even tying most of the other core mechanics to these. 
+Anomalies cause the gameplay of Somnium to be in a constantly fluxuating state. As your fever builds and wanes you will experience the world in completely different ways. Somnium is designed to work with this fluxuating state, to allow these anomalies to influence the game while also keeping it running and moving along smoothly and even tying most of the other core mechanics to these. 
 
-Players should not expect to play through the game and remain entirely sane. Arcane Fever is built into many of the powerful tools at the characters fingers and these anomalies come with the fever. 
+Players should not expect to play through the game and remain entirely sane. Arcane Fever is built into many of the powerful tools at the character's fingers and these anomalies come with the fever. 

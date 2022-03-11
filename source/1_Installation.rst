@@ -24,12 +24,14 @@ Full-Installation
 
 With the above packages downloaded, we are ready to install somnium. Installation is simple. Just follow the below instructions, **allowing each to finish before you move on to the next.**
 
-#. Install the Steam Version of Enderal: Forgotten Stories (Special Edition).
-#. Install `Wabbajack <https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.2.1/Wabbajack.exe>` to the base folder of one of your drives. For example: ``C:\Wabbajack`` is a safe standard. It is best installed on the same drive that you have the game installed.
+#. Install the Steam Version of `Enderal: Forgotten Stories (Special Edition) <https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/>`. 
+#. Install `Wabbajack <https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe>` to the base folder of one of your drives. For example: ``C:\Wabbajack`` is a safe standard. It is best installed on the same drive that you have the game installed.
 #. Open Wabbajack and login to your **Nexus Account** via the gear icon at the top right. **We absolutely recommend you have a premium subscription active for this account while you download Somnium.** Without a premium account, your download will take significantly longer.
 #. Download `Somnium <STAND IN FOR SOMNIUM DISK DOWNLOAD>` and run this. You can set the ``Installation Location`` to the same base folder of your drive that you downloaded Wabbajack to in step #2. The ``Download Location`` should then fill automatically. If it does not, simply point it to a folder called "downloads" that you can make in the ``C:\Somnium`` location.
 #. Allow this installation to run. It will take a while.
-#. Navigate to this installation and run ``Install.bat``
+#. Navigate to this installation and run ``Setup.bat``
+#. Follow the instructions from the command window that appears.
+#. Run the new ``Launch Somnium`` button that has ben placed in your directory.
 
 And congrats! You've installed Somnium. You can launch the game through the ``Launch Somnium`` exe file. Be sure to check the rest of the docs for information about Somnium's changes and enjoy your time!
 
@@ -70,18 +72,8 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 * 
   **Cyclic Redundancy Check error during installation** This could be several things, but the first thing we would recommend is confirming that Wabbajack is not installed in your Documents, Downloads or Program Files folders, then delete the contents of ``%APPDATA%/Local/Wabbajack`` and re-open the app and try again. If this does not resolve the problem, it could be related to drive corruption and you should run CHKDSK on the drive in question.
 
-ENB Presets
-""""""""""""""""
-*
-  **Somnium ENB Selector** *(Defaults to PLACERHOLDER ENB)* Right-clicking and selecting Reinstall Mod on the Somnium ENB Selector will allow you to choose between several included ENB options with various quality presets.
-
-Please note that if you have your Wabbajack Downloads folder outside of the ``<Somnium Install>/downloads`` path, you will need to go to your downloads folder, copy the Somnium ENB Selector and Somnium UI Customizer .7z files to your ``<Somnium Install>/downloads`` folder before you can Reinstall them in MO2 and use the FOMOD.
-
-Alternatively, you can change the Somnium Mod Organizer 2 Downloads directory by clicking the "Configure settings and workarounds" button in Mod Organizer 2 (it looks like a screw and wrench crossed over eachother) and changing the Downloads directory to whatever you selected when installing Somnium in Wabbajack.**
-
 
 Personalizing the Game
-~~~~~~~~~~~~~~~~~
-**Please note that, by default, Somnium has German voice-over with English subtitles.**  This is both to preserve the original vision of Enderal and because the German voice acting is top notch.  If you prefer the (also stellar) English audio, uncheck the ``German Voice Files`` mod in the left pane of Mod Organizer 2.
+~~~~~~~~~~~~~~~~~~~~~~
 
 **There is no MCM customization necessary for Somnium**.  The MCM options for all mods are set automatically to Somnium's standard.

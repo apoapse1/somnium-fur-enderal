@@ -54,8 +54,6 @@ Somnium maintains most of Enderal's changes to leveling up and growing your char
 
 Instead of buying tiered books from select vendors, Somnium allows characters to spend their points directly in this space.
 
-(Picture of new skill spend wall)
-
 You can now do all the leveling you need from here. And, as an added bonus, you are also able to completely refund all memory, skill, and crafting points from here so that you can try whichever build you would like and change it up if you want to try something new.
 
 .. _Affinities-reference-lable_
@@ -63,8 +61,152 @@ You can now do all the leveling you need from here. And, as an added bonus, you 
 Affinities
 ----------
 
-In the base game, and even Forgotten Stories, the affinities available to use required characters to build into a selection of skills to reach an affinity. There was no garuntee that all skill pairs would achieve an affinity.
+In the base game, and even Forgotten Stories, the affinities available to use required characters to build into a selection of skills to reach an affinity. There was no guarantee that all skill pairs would achieve an affinity.
 
 This is changed in Somnium. Now, regardless of the skills you perk into, you will achieve an affinity that will boost the potency of that build and make you stronger.
 
 This allows for all kinds of new, interesting character archetypes to flourish against the harsh world they must face. With the ability to respec your character at any time, players are encouraged to mess around and find combinations that they really enjoy.
+
+List of Affinities
+^^^^^^^^^^^^^^^^^^
+
+By allocating 10 memory points into two seperate talent trees, your character will gain an affinity which combines the power of both classes and grants new options that will push this build into new heights. The available affinities are as follows:
+
+**Abomination** 
+Enhances Health, Stamina, and Mana by 25. Boosts Psionics, Alchemy, and Entropy skills by 10 points. Increases Movement Speed by 10%. Grants the Talent: *Massacre* which can be activated while in beast form and it causes your attacks to absorb health for a time.
+
+**Apothocary** 
+Enhances Health and Stamina by 20. Boosts Fencing, Heavy Armor, and Alchemy skills by 10 points. Your crafted potions and poisons are 20% stronger. Healing potions cause 50% less fever build than normal.
+
+**Artificer** 
+Enhances Mana by 30 and Stamina by 15. Boosts Elementalism, Mentalism, Enchanting, and Handicraft skills by 10 points.
+Staves drain 25% less charge. Once a day you can recharge the staff in your right hand. Your apparition has more health and deals more melee damage.
+
+**Berserker** 
+Enhances Health and Stamina by 30. Boosts Fencing, Alchemy, and Light Armour skills by 10 points. If you have less than 60% Health, you gain 40 points of natural armor and deal 15% extra melee damage.
+
+**Bounty Hunter** 
+Enhances Health, Carry Weight and Stamina by 30. Boosts Marksmanship and Heavy Armour skills by 14 points. Your long gun hits will decrease the damage resistance of your enemies by 10%.
+
+**Charged Alpha** 
+Enhances Health, Mana and Stamina by 20. Boosts Alchemy and Elementalism skills by 14 points.Elemental Chymica have more effect and you automatically cast an elemental nova when transforming into beast form.
+
+**Charred Hunter** 
+Enhances Stamina by 40 points. Boosts Pistols and Alchemy skills by 12 points. While in beast form claw damage is increased by 15 and your vicious attacks deal 2.5 extra points of burn damage, lasting for 10 seconds. You deal 15% more damage to burning enemies.
+
+**Clairvoyant** 
+Enhances Mana and Stamina by 30. Boosts Mentalism, Psionics, and Entropy skills by 10 points. You can have 1 additional summon active. Arcane interference can now reduce arcane fever by 16%.
+
+**Doppleganger** 
+Enhances Stamina and Mana by 30. Boosts Heavy Armour and Enchanting skills by 10 points. When you're near your apparition both you and it gain 30 points of health, deal 10% extra damage, and receive 10% less damage.
+
+**Exiled Apostate**
+Enhances Mana by 30 and Health by 15. Boosts Alchemy skill by 8 points. Boosts all magic skills by 6 points. Spells cost 15% less, are 10% stronger and last 10% longer. You have a 25% chance to gather an extra ingredient.
+
+**Frontiersman**
+Enhances Stamina by 40 points. Boosts Sneak, Light Armour, Marksmanship, and Alchemy skills by 8 points. You move 8% faster and have a 25% chance to disarm an opponent on hit
+
+**Ghost Blade**
+Enhances Stamina and Mana by 30. Boosts Enchanting, Sleight of Hand, Sneak, and Pistols skills by 12 points. After you perform a sneak attack, your apparition teleports to the enemy and also attacks them.
+
+**Gunnery Sargent**
+Enhances Stamina by 30. Boosts Movement Speed by 8%. Boosts Pistols and Marksmanship skills by 8 points. Adds a 10% chance to negate incoming attacks and gain 20% increased critical *strike* damage.
+
+**Harbinger**
+Enhances Health and Mana by 25. Boosts Heavy Armour, Entropy, and Psionics skills by 12 points. Successfully using the *Devour Soul* talent will increase your Entropy and Weapon damage by 30% for 15 seconds.
+
+**Harper's Assassin**
+Enhances Stamina by 40. Boosts both Sneaking and Marksman skills by 14 points. When wielding a long gun, you move much quieter and your attacks have an additional 20% chance for critical hits.
+
+**Heavy Scout**
+Enhances Health and Stamina by 25. Boosts Pistols and Heavy Armour skills by 12 points. Attacks made with a pistol deal 3 points of bleeding damage for 5s. Enemy damage resistance is reduced by 10% for 3 seconds
+
+**Inquisitor**
+Enhances Stamina and Mana by 25 points. Boosts Marksmanship, Mentalism, Elementalism, Psionics, and Entropy skills by 6. You deal 15% more damage with long guns if you have less than 50% Mana. Your spells are 15% stronger and last 10% longer if you have more than 50% Mana.
+
+**Juggernaut**
+Enhances Health and Stamina by 30 points. Boosts Fencing, Block and, Heavy Armour skills by 10 points. Blocking is 15% more effective. Regenerate 4 points of health per second out of combat.
+
+**Master-at-Arms**
+Enhances Stamina by 30. Boosts movement speed by 8%. Boosts Marksmanship and Fencing skills by 12 points. If your target is within 30 meters you deal 25% more damage with melee weapons. If your target is further than 30 meters away you deal 25% more damage with long guns.
+
+**Master of Winds**
+Enhances Health and Mana by 20. Boosts Rhetorics, Sneak, Light Armour, and Light Magic skills by 8 points. Your unarmed attacks deal 15 more damage. Your unarmed attacks knock out unaware targets. Boosts the effectiveness of the *Arcane Resistance* perk, increasing the effects from (10% and 20%) to (25% and 50%).
+
+**Nature's Guardian**
+Enhances Health by 35 and Mana by 25. Boosts Light Magic skill by 16, and both Heavy and Light Amour skills by 8 points. Gain 15% more life and armour while in beast form and the talent: *Colossus*_, which briefly increases size, resistances,
+armour, and health in beast form when it is used.
+
+**Ninja**
+Enhances Stamina by 30. Boosts Sneak, Fencing, and Light Armour skills by 10 points. You move 10% faster and Sneaking is 10% easier. Your sneak attack multiplier is doubled for damage with melee weapons.
+
+**Operator**
+Enhances Health and Stamina by 30 points. Boosts Sneak, Sleight of Hand, Lockpicking, Pistols, and Rhetoric skills by 10 points.
+You move much quieter. You have a 5% chance to increase your own skills based on your target's highest skill when you kill them.
+
+**Pack Leader**
+Enhances Health and Stamina by 30. Boosts Heavy Armour and Alchemy skills by 12 points. While in beast form, you regenerate 3 points of health per second. All wolves are friendly towards you.
+
+**Phantom Warrior**
+Enhances Mana by 30 and Stamina by 15. Boosts Enchanting, Handicraft, Fencing, and Marksmanship skills by 8 points. Additionally, one of your stances also applies to your Apparition.
+
+**Presdidigitator**
+Enhances Mana by 30. Boosts Elementalism and Sneak skills by 12 points. Elementalism spells cost 10% less and deal 3 times damage against targets that are not detecting you. Sneaking is 8% easier.
+
+**Prowler**
+Enhances Health and Stamina by 25. Boosts Alchemy, Sneak, and Light Armour skills by 12 points. Deal 50% more damage while sneaking in beast form. Gain invisibility for a short time when you enter sneaking mode in beast form.
+
+**Powder Keg**
+Enhances Health and Stamina by 20. Boosts Movement Speed by 10%. Boosts Alchemy, Light Armour, and Pistols skills by 10 points.
+Enemies affected by "Powder Burns" will cause a small explosion around them.
+
+**Recluse**
+Enhances Health and Stamina by 25. Boosts Marksmanship and Alchemy skills by 12 points. Deal 25% more damage to undamaged targets and targets close to death.
+
+**Samurai**
+Enhances Health and Stamina by 20. Boosts Heavy Armour, Sneak, and Rhetorics skills by 10 points. Heavy Armour now slows you down 50% less and no longer makes it harder to move quietly when sneaking.
+
+**Shadow Dancer**
+Enhances Stamina and Mana by 30. Boosts Sneak, Entropy, and Psionics skills by 12 points. Enemies you kill while marked with "Ghostwalk" will rise as your minions to fight for you.
+
+**Skald**
+Enhances Stamina by 30 and Health by 15. Boosts Light Armour, Enchanting, Fencing, and Rhetorics skills by 10 points. Allies near you won't flee and gain 30 points of health, 10% extra damage, and receive 10% less damage.
+
+**Soul Reaper**
+Enhances Health and Mana by 20. Boosts Entropy, Psionics, Marksmanship, and Pistols skills by 8 points. 25% chance to raise the most recently felled enemy as a zombie, but can only have one zombie minion at a time.
+
+**Spectral Puppeteer**
+Enhances Mana by 45. Boosts Enchanting and Entropy skills by 14 points. Your Apparitions do 25% more damage if you have a summoned creature.
+
+**Swashbuckler**
+Enhances Health and Stamina by 35. Boosts Movement Speed by 10%. Boosts Fencing, Light Armour, and Pistols skills by 12 points.
+Pistol shots increase your melee damage by 10 for 5 seconds. Stacks up to 30 increased damage.
+
+**Templar**
+Enhances Health and Mana by 50. Boosts Light Magic, Heavy Armour, Fencing, Blocking, and Rhetorics skills by 14 points. Deal an additional 15% damage with melee weapons.
+
+**Throat Ripper**
+Enhances Health by 30 and Stamina by 20. Boosts Fencing and Alchemy skills by 12 points. While in beast form, you deal 9 more damage with claws and deal 5% increased damage for 7 seconds after killing an enemy in beast form, this stacks up to 25% increased damage.
+
+**Toxicologist**
+Enhances Stamina by 30. Boosts Movement Speed by 10%. Boosts Fencing, Sleight of Hand, Sneak, and Alchemy skills by 8 points.
+You can silently harm enemies by placing poisons in their pockets, your poisons have 2 additional charges and they are 10%
+stronger.
+
+**Wanderer**
+Enhances Health and Stamina by 30. Boosts Alchemy skill by 15 points. Brewed Chymica are stronger and cause you to do 10 more damage in beast form. You can now have up to 3 Chymicas active at once.
+
+**Warlock**
+Enhances Health by 20 and Mana by 40. Boosts Elementalism and Entropy skills by 14 points. The *Shock Nova* talent will absorb some of the HP and Mana of your enemies.
+
+**War Mage**
+Enhances Health and Mana by 30. Boosts Fencing, Heavy Armour, Elementalism, and Marksman skills by 8 points. Killing an enemy with the *Shock Nova* talent briefly increases the damage of your spells, melee weapons, and long guns by 8%. This damage can stack to 24%.
+
+**Wild Spirit**
+Enhances Stamina and Mana by 25. Boosts Alchemy, Enchanting, Light, and Heavy Armour skills by 12 points. You regenerate 2 health per second. Your Apparition also transforms into a beast.
+
+**Witch Doctor**
+Enhances Mana by 45 points. Boosts Elementalism, Mentalism and Light Magic skills by 10 points. Novice and Apprentice spells from the Elementalism, Mentalism and Light Magic schools no longer cost any mana to cast and all spells are 15% stronger.
+
+**Witch Hunter**
+Enhances Mana and Stamina by 25. Boosts Pistol, Elementalism, and Light Magic skills by 10 points. Boosts movement speed by 8%. A bullet fired during the effect of the *Eye of the Storm* talent will be followed up by a spectral bullet which briefly paralyzes the target.
