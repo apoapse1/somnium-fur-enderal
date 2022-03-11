@@ -27,7 +27,7 @@ With the above packages downloaded, we are ready to install somnium. Installatio
 #. Install the Steam Version of `Enderal: Forgotten Stories (Special Edition) <https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/>`. 
 #. Install `Wabbajack <https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe>` to the base folder of one of your drives. For example: ``C:\Wabbajack`` is a safe standard. It is best installed on the same drive that you have the game installed.
 #. Open Wabbajack and login to your **Nexus Account** via the gear icon at the top right. **We absolutely recommend you have a premium subscription active for this account while you download Somnium.** Without a premium account, your download will take significantly longer.
-#. Download `Somnium <STAND IN FOR SOMNIUM DISK DOWNLOAD>` and run this. You can set the ``Installation Location`` to the same base folder of your drive that you downloaded Wabbajack to in step #2. The ``Download Location`` should then fill automatically. If it does not, simply point it to a folder called "downloads" that you can make in the ``C:\Somnium`` location.
+#. Download `Somnium <https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack>` and run this. You can set the ``Installation Location`` to the same base folder of your drive that you downloaded Wabbajack to in step #2. The ``Download Location`` should then fill automatically. If it does not, simply point it to a folder called "downloads" that you can make in the ``C:\Somnium`` location.
 #. Allow this installation to run. It will take a while.
 #. Navigate to this installation and run ``Setup.bat``
 #. Follow the instructions from the command window that appears.

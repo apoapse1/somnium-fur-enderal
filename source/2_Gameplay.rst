@@ -29,7 +29,7 @@ The controls for Somnium were decided after significant playtesting and delibera
 
 The image below shows the default control set-up for Somnium.
 
-.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/SomniumKeyboardVersion1.png
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Keyboard%20Final.png
    :alt: Keyboard Image
    :align: center
 
