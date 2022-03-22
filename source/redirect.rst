@@ -1,4 +1,4 @@
-Scenic Route Website
+Somnium Website
 ====================
 
 .. raw:: html
