@@ -17,7 +17,7 @@ The atmosphere of Somnium is crafted from the very best textures and mods we cou
 
 From the lazy, leaden waves of the Sun Coast, to the ravaged and ruined sprawl of Thalgard; all throughout the continent players will find scenic vistas as they wander and explore. Then when they delve into the depths and halls beneath the soil they will find oppressive shadows and haunted stones.
 
-.. _Equipment-reference-label:
+.. _Equipment-reference-lable:
 
 Equipment and Attire
 --------------------

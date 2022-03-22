@@ -113,7 +113,7 @@ The wait function is limited to these shrines as well. If a quest requires you t
 Humanity
 ^^^^^^^^
 
-Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. As your Humanity slips from you, you are subjected to increasingly detrimental effects to your Stamina and Mana pools. If your Humanity is ever completely lost, your story ends.
+Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. If your Humanity is ever completely lost, your story ends.
 
 Characters can restore their humanity at Earthen Reliquaries by sacrificing a **Memory**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain entities in the world of Enderal that possess memories powerful enough to sacrifice should you be able to overcome their challenge.
 

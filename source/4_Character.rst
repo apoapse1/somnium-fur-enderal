@@ -3,14 +3,12 @@ Sections:
 * :ref:`Growth-reference-lable`
 * :ref:`Affinities-reference-lable`
 
-.. _Growth-reference-section:
-
 Character Growth
 ----------------
 
 In Enderal, characters level up and grow in power through different means compared to Skyrim. Most of your experience points are going to come from completing quests and killing enemies rather than from making use of specific skills. If you are new to Enderal, the following section can help introduce you to some of the systems it changes involving character growth. If you are have played Enderal before, and are only new to Somnium, then you can skip down to :ref:`growthSomniumLeveling` to see the changes we have made to Enderal's base systems.
 
-.. _growthNew-reference-lable:
+.. _growth-reference-lable:
 
 Enderal Systems
 ^^^^^^^^^^^^^^^
@@ -56,7 +54,7 @@ Instead of buying tiered books from select vendors, Somnium allows characters to
 
 You can now do all the leveling you need from here. And, as an added bonus, you are also able to completely refund all memory, skill, and crafting points from here so that you can try whichever build you would like and change it up if you want to try something new.
 
-.. _Affinities-reference-lable_
+.. _Affinities-reference-lable:
 
 Affinities
 ----------
