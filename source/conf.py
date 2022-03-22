@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Somnium for Skyrim SE/VR'
-copyright = '2021, The Librum Team'
-author = 'The Librum Team'
+project = 'Somnium'
+#copyright = '2021, The Librum Team'
+author = 'Scenic Route Games'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
