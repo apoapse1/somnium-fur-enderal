@@ -7,7 +7,9 @@ Pre-Installation
 
 There are a few things you will need to make sure to have before you can download and play Somnium. First and foremost, you will need at least **190GB** of free space. You can delete the contents of the ``downloads`` folder after it is fully installed to reduce this, however you will need to redownload all the mods when you wish to update the list.
 
-*The following steps are only needed if you are installing Somnium for the first time. If you are updating Somnium, jump straight to* :ref:`Updating-reference-lable`
+*The following steps are only needed if you are installing Somnium for the first time. If you are updating Somnium, jump straight to:*
+
+:ref:`Updating-reference-lable`
 
 Installing Microsoft Visual C++
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
