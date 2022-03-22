@@ -84,7 +84,7 @@ Personalizing the Game
 
 
 
-.. _Wabbajack: https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe>
+.. _Wabbajack: https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe
 
 .. _Enderal: Forgotten Stories (Special Edition): https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
 
