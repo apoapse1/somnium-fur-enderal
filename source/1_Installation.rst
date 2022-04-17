@@ -9,7 +9,7 @@ There are a few things you will need to make sure to have before you can downloa
 
 *The following steps are only needed if you are installing Somnium for the first time. If you are updating Somnium, jump straight to:*
 
-:ref:`Updating-reference-lable`
+:ref:`Updating-reference-label`
 
 Installing Microsoft Visual C++
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -37,7 +37,7 @@ With the above packages downloaded, we are ready to install somnium. Installatio
 
 And congrats! You've installed Somnium. You can launch the game through the ``Launch Somnium`` exe file. Be sure to check the rest of the docs for information about Somnium's changes and enjoy your time!
 
-.. _Updating-reference_lable:
+.. _Updating-reference_label:
 
 Updating
 ^^^^^^^^
@@ -69,10 +69,10 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
   **Wabbajack could not find my game folder.** Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the `Pre-Installation <#pre-installation>`_ step and ensure you have clean and valid installations of both Skyrim and Enderal SE.
 
 * 
-  **Windows is reporting that a virus has been detected.** Windows 10 has started to auto-quarantine the ``usvfs_proxy_x86.exe`` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found `here <https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan>`_.
+  **Windows is reporting that a virus has been detected.** Windows 10 has started to auto-quarantine the ``usvfs_proxy_x86.exe`` file from the latest version of Mod Organizer 2, saying a threat has been detected. This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for Windows Defender can be found `here <https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan>`_.
 
 * 
-  **Cyclic Redundancy Check error during installation** This could be several things, but the first thing we would recommend is confirming that Wabbajack is not installed in your Documents, Downloads or Program Files folders, then delete the contents of ``%APPDATA%/Local/Wabbajack`` and re-open the app and try again. If this does not resolve the problem, it could be related to drive corruption and you should run CHKDSK on the drive in question.
+  **Cyclic Redundancy Check error during installation** This could be several things, but the first thing we would recommend is confirming that Wabbajack is not installed in your Documents, Downloads or Program Files folders, then delete the contents of ``%APPDATA%/Local/Wabbajack`` and re-open the app and try again. If this does not resolve the problem, it could be related to drive corruption, and you should run CHKDSK on the drive in question.
 
 
 Personalizing the Game

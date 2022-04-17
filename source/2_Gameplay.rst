@@ -3,10 +3,10 @@ Gameplay & Features
 ===================
 Sections:
 
-* :ref:`Controls-reference-lable`
-* :ref:`Death-reference-lable`
-* :ref:`Combat-reference-lable`
-* :ref:`Magic-reference-lable`
+* :ref:`Controls-reference-label`
+* :ref:`Death-reference-label`
+* :ref:`Combat-reference-label`
+* :ref:`Magic-reference-label`
 
 .. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Point%20Blank.png
    :alt: Pistolshot
@@ -14,12 +14,12 @@ Sections:
 
 Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your rifles have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
 
-.. _Controls-reference-lable:
+.. _Controls-reference-label:
 
 Controls
 --------
 
-The end result of this effort allows somnium to be playable in third person from beginning to end, and this is the designed method of play.
+In the end, somnium is playable in third person from beginning to end, and this is the designed method of play.
 
 However, these changes also brought necessary changes to the base controls of the game. Somnium adds elements from other genres into the world of Vyn, and many of these elements come with a standardized expectation of controls from players.
 
@@ -37,7 +37,7 @@ You can bring up this image in-game at any time by pressing the **'Page Down'** 
 
 The image color codes sections to reflect generalized groupings of use. Purple are menu keys, Green are combat keys, and Red are utility keys. Gray/Black keys are for basic movement. Going through this image I will quickly list the actions each icon connects to:
 
-.. _controlsPurple-reference-lable:
+.. _controlsPurple-reference-label:
 
 Purple
 ^^^^^^
@@ -54,7 +54,7 @@ Purple
 * The **'M'** key enters opens the Map screen without needing to enter the middle-menu.
 * And the **'End'** key opens a notebook for you to take in game notes if you would like.
 
-.. _controlsGreen-reference-lable:
+.. _controlsGreen-reference-label:
 
 Green
 ^^^^^
@@ -65,7 +65,7 @@ Green
 * The **'Left Control'** key enters the stealth mode.
 * And the **'Left Alt'** key activates your dodge. This only works when your weapon(s) is/are drawn.
 
-.. _controlsRed-reference-lable:
+.. _controlsRed-reference-label:
 
 Red
 ^^^
@@ -75,7 +75,7 @@ Red
 * The **'G'** key calls your *Apparition* if you use the Phasmalist tree.
 * The **'V'** key calls your mount, assuming you have a mount.
 
-.. _controlsExtra-reference-lable
+.. _controlsExtra-reference-label:
 
 Extra
 ^^^^^
@@ -87,7 +87,7 @@ Extra
 * The **'Caps Lock'** key will switch between your run and walk movements.
 * And the **'Right Alt'** key will toggle auto-move on and off.
 
-.. _Death-reference-lable:
+.. _Death-reference-label:
 
 Death
 -----
@@ -104,11 +104,11 @@ No one else even seems capable of noticing these petrified birds, nor do they se
 
 These avian shrines act as checkpoints. You are able to open an unlimited storage, skip time, and restore your Humanity at any shrine you find. 
 
-The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town. You can also store useful preperation equipment such as buffing potions and the, now-heavy, Ambrosia.
+The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town. You can also store useful preparation equipment such as buffing potions and the, now-heavy, Ambrosia.
 
 The wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location.
 
-.. _deathHumanity-reference-lable:
+.. _deathHumanity-reference-label:
 
 Humanity
 ^^^^^^^^
@@ -117,15 +117,15 @@ Restoring your Humanity is an important function of the Reliquaries. As you die,
 
 Characters can restore their humanity at Earthen Reliquaries by sacrificing a **Memory**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain entities in the world of Enderal that possess memories powerful enough to sacrifice should you be able to overcome their challenge.
 
-.. _deathSaving-reference-lable:
+.. _deathSaving-reference-label:
 
 Saving
 ^^^^^^
-Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Everytime you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment and you will recieve a notification when the game has completed saving. **Please do not close the game while it is saving.**
+Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Every time you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment, and you will receive a notification when the game has completed saving. **Please do not close the game while it is saving.**
 
-The game also autosaves your progress every minute, making sure that you don't lose any progress should you need to log off without a shrine near. When you load your game after this, it will still spawn you at the last shrine you activated, however you will have all the progress you accomplished still standing, and will only need to find your way back to the location you logged out from.
+The game also autosaves your progress every minute, making sure that you don't lose any progress should you need to log off without a shrine nearby. When you load your game after this, it will still spawn you at the last shrine you activated, however you will have all the progress you accomplished still standing and will only need to find your way back to the location you logged out from.
 
-.. _Combat-reference-lable:
+.. _Combat-reference-label:
 
 Combat
 ------
@@ -134,15 +134,15 @@ Combat
    :alt: WolvenStorm
    :align: center
 
-As stated earlier, combat in Somnium is dangerous. Low level characters are fragile and death will come quickly. As you level up, explore, and find/make better gear you will quickly rise in power.
+As stated earlier, combat in Somnium is dangerous. Low level characters are fragile, and death will come quickly. As you level up, explore, and find/make better gear you will quickly rise in power.
 
-There are a lot more options available to characters from the get-go than they would have in default Enderal. You can dodge away from enemy attacks now, giving a powerful defensive technique to every character that can make even low level characters capable if the player knows how to use it.
+There are a lot more options available to characters from the get-go than they would have in default Enderal. You can dodge away from enemy attacks now, giving a powerful defensive technique to every character that can make even low-level characters capable if the player knows how to use it.
 
-.. _combatEarly-reference-lable:
+.. _combatEarly-reference-label:
 
 Early Game
 ^^^^^^^^^^
-When your character is just starting out you have everything against you. It is the coinciding moment where you have the least game-knowledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But, you will quickly begin to fix all of these even as you explore the starting area. 
+When your character is just starting out you have everything against you. It is the coinciding moment where you have the least game-knowledge, the lowest skills, the fewest perks, the least talents, and the weakest gear. But you will quickly begin to fix all of these even as you explore the starting area. 
 
 There are three core goals of the early game:
 
@@ -154,9 +154,9 @@ Because Enderal does not use the typical Skyrim style of character growth, with 
 
 The early game will mostly be made up of learning experiences. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells and talents, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your spells/powers to win the fight. 
 
-With the respawn mechanics, death is not as much an inhibitor to progress. Instead it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
+With the respawn mechanics, death is not as much an inhibitor to progress. Instead, it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
 
-.. _combatGuns-reference-lable:
+.. _combatGuns-reference-label:
 
 Firearms
 ^^^^^^^^
@@ -172,7 +172,7 @@ Guns give characters a very powerful ranged option so long as they have the ammu
 And not only can any character make use of guns, but they are encouraged to do so. Somnium plays, in many ways, like a shooter. The inclusion of guns fundamentally alters the expectations of engagements.
 
 
-.. _Magic-reference-lable:
+.. _Magic-reference-label:
 
 Magic
 -----
@@ -183,7 +183,7 @@ Magic
 
 Magic was always a major theme and feature of Enderal's world. But in Somnium, the interesting quirks of Enderal's magic lore have been brought into focus.
 
-.. _magicFever-reference-lable:
+.. _magicFever-reference-label:
 
 Arcane Fever
 ^^^^^^^^^^^^
@@ -191,22 +191,22 @@ Enderal introduced the idea of the Arcane Fever, however Somnium fully commits t
 
 Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
 
-As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their fever.
+As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their fever.
 
 Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
 
-And of course this fever is fueled further by imbibing any potions touched by magic and by proximity to residual magic energy in the world.
+And of course, this fever is fueled further by imbibing any potions touched by magic and by proximity to residual magic energy in the world.
 
 The ability to reduce your fever is also more challenging than it was in Enderal. You'll find ambrosia now weighs more and its effect on your fever has been lessened. Powerful alchemists will still be able to push the usefulness of ambrosia further, and now the potency will be noticeably better than purchased vials.
 
 Characters are expected to be suffering from the effects of the fever as they progress through the game. The reasons and goals of this will be expanded on in the **Atmosphere** section. As a result of this, your character will not suffer the negative stat effects of the fever as it compounds, instead there are a variety of new gameplay alterations that the fever controls.
 
-.. _magicMore-reference-lable:
+.. _magicMore-reference-label:
 
 Spell Expansion
 ^^^^^^^^^^^^^^^
 The number of spell effects have been greatly increased in Somnium as well. Players will find a vast array of spells to use for each magical discipline.
 
-Players will find offensive Light Magic spells that will help them to better combat the Lost Ones, effective touch spells for the battlemage clad in heavy armor to put to use, new summons that can be paired together so the mage never needs to be in harms way, and many more.
+Players will find offensive Light Magic spells that will help them to better combat the Lost Ones, effective touch spells for the battlemage clad in heavy armor to use, new summons that can be paired together so the mage never needs to be in harm's way, and many more.
 
 With all of these, magic becomes a very effective and versatile skill set for the players that want to walk the line with their Arcane Fever.
