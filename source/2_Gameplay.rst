@@ -106,7 +106,7 @@ These avian shrines act as checkpoints. You are able to open an unlimited storag
 
 The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town. You can also store useful preparation equipment such as buffing potions and the, now-heavy, Ambrosia.
 
-The wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location.
+The wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location. Be careful when doing so, however! Spending too much time at a reliquary or a bed may cause you to get the *Rested* effect, which lasts proportionally to the amount of time you've slept, thus stopping you from abusing certain mechanics related to the time.
 
 .. _deathHumanity-reference-label:
 
@@ -191,7 +191,7 @@ Enderal introduced the idea of the Arcane Fever, however Somnium fully commits t
 
 Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
 
-As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the Sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their Fever. While Thaumaturges manipulate the Fever directly, either by lowering it, or "slowing it down".
+As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the Sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their Fever. While Thaumaturges can manipulate the Fever directly, either by lowering it, or "slowing its rise".
 
 Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
 
@@ -207,6 +207,15 @@ Spell Expansion
 ^^^^^^^^^^^^^^^
 The number of spell effects have been greatly increased in Somnium as well. Players will find a vast array of spells to use for each magical discipline.
 
-Players will find offensive Light Magic spells that will help them to better combat the Lost Ones, effective touch spells for the battlemage clad in heavy armor to use, new summons that can be paired together so the mage never needs to be in harm's way, and many more.
+Players will find offensive Light Magic spells that will help them to better combat the Lost Ones, effective touch spells for the battlemage clad in heavy armor to use, and many more.
 
 With all of these, magic becomes a very effective and versatile skill set for the players that want to walk the line with their Arcane Fever.
+
+Entropy Rework and New Summon Mechanics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+With the 1.1 update, Somnium recieved the largest overhaul of summon mechanics in Skyrim modding to date -- Apoapse's Accomplices. With it, the player no longer has access to distinct summon spells for different creatures – rather, the basic tool in your arsenal is the new talent Open Rift, available halfway up the Entropy tree. Open Rift opens a link to the Sea of Eventualities, bringing forth an otherworldly creature depending on location, skill, active effects, time of day, and more. We’ve introduced more than eight times the number of unique summons from vanilla Enderal, so there’s plenty of exploring to do!
+
+Now, this is only a fraction of what Accomplices does. For one, since Open Rift is so taxing, you won’t have to cast it all the time. Rather, each summon sticks around until killed, and each summon provides unique skill benefits when in your party. As such, finding appropriate summons – and keeping them alive throughout your adventure – is the new name of the game in Entropy.
+
+To keep summons alive, you’ll need to make use of the newly expanded Entropy school. Instead of summon spells, the Entropy school is full of spells to affect summons in unique ways: teleport them around the battlefield or store them in a pocket dimension, absorb their taken damage onto yourself, grant them extra lives, and much more. 
+
