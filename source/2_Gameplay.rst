@@ -14,6 +14,8 @@ Sections:
 
 Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your rifles have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
 
+If you are interested in learning the specifics of all the mechanics, especially the more confusing ones, make sure to check out the help menu inside the game! You can find it by simply opening the pause menu (pressing Esc).
+
 .. _Controls-reference-label:
 
 Controls
