@@ -5,11 +5,22 @@ Somnium makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ p
 Pre-Installation
 ^^^^^^^^^^^^^^^^
 
-There are a few things you will need to make sure to have before you can download and play Somnium. First and foremost, you will need at least **190GB** of free space. You can delete the contents of the ``downloads`` folder after it is fully installed to reduce this, however you will need to redownload all the mods when you wish to update the list.
+There are a few things you will need to make sure to have before you can download and play Somnium. First and foremost, you will need at least **160GB** of free space for the Somnium installation on your Solid State Drive (SSD), and at least **64GB** for the Somnium downloads and **20GB** for Enderal SE on your Hard Disk Drive (HDD). To see which of your drives are SSD's and which are HDD's, press Win+R and type ``dfrgui``.
+
+You can delete the contents of the ``downloads`` and Enderal SE folders after Somnium is fully installed, however you will need to redownload all the mods and Enderal when you wish to update the list.
+
+If you are having issues with any step of the installation, please join our `Discord Community <https://discord.com/invite/nAQWr4VmG6>`_, where we will be able to diagnose and help you with your problems.
 
 *The following steps are only needed if you are installing Somnium for the first time. If you are updating Somnium, jump straight to:*
 
 :ref:`Updating-reference-label`
+
+Minimum PC Specs
+~~~~~~~~~~~~~~~~
+
+Somnium is not particularly performance-heavy, and can run on relatively low-end PC specs. One of our devs has a GTX1660 GPU and a i5-9400F CPU, and can run Somnium at 1440p with the Medium ENB preset on 30-40 FPS in the exterior. Lowering the resolution to 1080p and choosing the Low ENB preset will improve your performance by a lot.
+
+Somnium also natively suppports most resolution aspect ratios, such as 16:10 or widescreen.
 
 Installing Microsoft Visual C++
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -24,35 +35,61 @@ You can grab this package from `here <https://dotnet.microsoft.com/en-us/downloa
 Full-Installation
 ^^^^^^^^^^^^^^^^^
 
-With the above packages downloaded, we are ready to install somnium. Installation is simple. Just follow the below instructions, **allowing each to finish before you move on to the next.**
+With the above packages downloaded, we are ready to install Somnium. Installation is simple. Just follow the below instructions, **allowing each to finish before you move on to the next.**
 
-#. Install the Steam Version of `Enderal Forgotten Stories (Special Edition) <https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/>`_
-#. Install `Wabbajack <https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe>`_ to the base folder of one of your drives. For example: ``C:\Wabbajack`` is a safe standard. It is best installed on the same drive that you have the game installed.
-#. Open Wabbajack and login to your **Nexus Account** via the gear icon at the top right. **We absolutely recommend you have a premium subscription active for this account while you download Somnium.** Without a premium account, your download will take significantly longer.
-#. Download `Somnium <https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack>`_ and run this. You can set the ``Installation Location`` to the same base folder of your drive that you downloaded Wabbajack to in step #2. The ``Download Location`` should then fill automatically. If it does not, simply point it to a folder called "downloads" that you can make in the ``C:\Somnium`` location.
-#. Allow this installation to run. It will take a while.
-#. Navigate to this installation and run ``Setup.bat``
-#. Follow the instructions from the command window that appears.
-#. Run the new ``Launch Somnium`` button that has ben placed in your directory.
+1. Install Enderal Special Edition
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+First, make sure that your Steam Library is not located in the Program Files folder of your PC. If it is, follow `this guide <https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide>`_ to set it in a different place.
 
-And congrats! You've installed Somnium. You can launch the game through the ``Launch Somnium`` exe file. Be sure to check the rest of the docs for information about Somnium's changes and enjoy your time!
+Install the Steam Version of `Enderal Forgotten Stories (Special Edition) <https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/>`_
+
+Make sure that the language is `set to English <https://help.steampowered.com/en/faqs/view/4984-C127-121D-B3F2>`_.
+
+If Enderal was already installed prior to this, `verify its game files <https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB>`_.
+
+2. Install Wabbajack
+~~~~~~~~~~~~~~~~~~~~
+Create a folder in the base of one of your drives named Wabbajack. For example: ``C:\Wabbajack`` is a safe standard. Do **NOT** create that folder on your Desktop, Downloads or the Program Files folder.
+
+Download `Wabbajack.exe <https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe>`_ and place it inside the folder you just created. Run the .exe inside that folder. 
+
+3. Preparing Wabbajack for the installation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3.1. Once Wabbajack is opened, click on the gear icon at the top right and login to your **Nexus Account**. **We absolutely recommend you have a premium subscription active for this account while you download Somnium.** Without a premium account, your download will take significantly longer.
+ 
+3.2. Create a folder named ``WJDownloads`` in the base of your HDD. For example, ``D:\WJDownloads``. You can also create it on your SSD, but that is not recommended, as it will simply take up space.
+
+3.3. Create a folder named ``Somnium`` in the base of your SSD. For example, ``E:\Somnium`` or ``E:\Games\Somnium``. **We absolutely recommend you install Somnium on your Solid State Drive. Otherwise, your performance will be much worse, and the load times will be significantly higher.**
+
+4. Finally Installing Somnium
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Download `Somnium.wabbajack <https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack>`_ and run it. Set the ``Download Location`` to the same base folder of your drive that you created in step #3.2. Then set the ``Installation Location`` to the same folder of your drive that you created in step #3.3. Check "Overwrite Installation", and start the installation. This will take a while, so let it run.
+
+If Wabbajack threw an error while installing Somnium, we will be able to fix the issue in our `Discord Community <https://discord.com/invite/nAQWr4VmG6>`_.
+
+When Wabbajack finishes successfully, navigate to the Somnium installation folder. Inside, you should see a file named ``Setup.bat``. Run it. A console should pop up. Enter the number `1` in there, and press Enter.
+
+Run the new ``Launch Somnium`` shortcut that has been placed in your directory.
+
+And congrats! You've installed Somnium. Any time you want to run it, just click on the shortcut again, and the game will open. If you would like to change some of the settings, simply open setup.bat, and enter the number `2` there. Be sure to check the rest of the docs for information about Somnium's changes and enjoy your time in the world of Vyn!
 
 .. _Updating-reference_label:
 
 Updating
 ^^^^^^^^
 
-If Somnium receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
+If Somnium receives an update, please check the Changelog before doing anything. Any time the Changelog recieves an update, you will be able to see whether the latest update is save-compatible. If it is not, you don't have to do anything prior to updating. If it is, back up the ``Somnium\files\profiles\Somnium\saves`` folder by placing it outside of the Somnium folder. For example, you can keep it in ``D:\SomniumSaves``.
 
-**Wabbajack will delete all files that are not part of the updated modlist when updating!**
+**Wabbajack will delete all files that are not part of the updated modlist when updating! That includes the base Somnium folder.**
 
 This means that any additional mods you have installed on top of Somnium will be deleted. However, your downloads folder will not be touched!
 
-Updating is like installing. You only have to make sure that you select the same path and tick the *Overwrite existing modlist* button.
-Note that some in-game settings will get reset when updating. Check them all again!
+Updating is like installing. Download the latest `Somnium.wabbajack <https://github.com/apoapse1/somnium-fur-enderal/releases/latest/download/Somnium.wabbajack>`_, run it, make sure that you select the same installation and download paths as before and tick the *Overwrite installation* button. Once it's done, run setup.bat again. If the update was save-compatible, copy your saves folder back to ``Somnium\files\profiles\Somnium\saves``.
+
+Note that some in-game settings and your game configuration in setup.bat will get reset when updating. Make sure to check that!
 
 Problems with Wabbajack
-"""""""""""""""""""""""
+~~~~~~~~~~~~~~~~~~~~~~~
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-trying Wabbajack at least once before posting anything, usually it will complete what it missed the first time. Check the ``overwrite`` box on the install page and Wabbajack will continue where it left off, so you lose no progress.
 
