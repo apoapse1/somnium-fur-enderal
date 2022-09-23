@@ -19,7 +19,7 @@ Somnium is designed to be played in third person. Great effort has been made to 
 Controls
 --------
 
-In the end, somnium is playable in third person from beginning to end, and this is the designed method of play.
+In the end, Somnium is playable in third person from beginning to end, and this is the designed method of play. Since the 1.1 update, we have allowed the player to switch to first person mode, as long as their weapons are sheathed.
 
 However, these changes also brought necessary changes to the base controls of the game. Somnium adds elements from other genres into the world of Vyn, and many of these elements come with a standardized expectation of controls from players.
 
@@ -60,17 +60,17 @@ Green
 ^^^^^
 
 * The **'R'** key primarily reloads your equipped firearm. If you have no selected ammunition currently, the key will instead open the *Ammo Pouch* for you to select an ammunition first.
-* The **'Left Shift'** key operates as a modifier, changing your movement into sprinting, and your attacks into power attacks.
-* The **'C'** key activates the lock-on.
-* The **'Left Control'** key enters the stealth mode.
-* And the **'Left Alt'** key activates your dodge. This only works when your weapon(s) is/are drawn.
+* The **'Left Shift'** key activates your dodge.
+* The **'C'** key changes your movement from running to sprinting.
+* The **'Left Control'** key allows you to lock on to an enemy.
+* And the **'Left Alt'** key serves as a modifier, and only works when holding a melee weapon. Pressing LMB while holding down Alt will cause you to perform a *Power Attack*. Pressing RMB while holding Alt will allow you to attack with the weapon in your right hand, whether it is a pistol or a magic spell. Quickly double-tapping Alt will change the *Grip* on your melee weapon. What that does, is switch the attack style of said weapon from one-handed to two-handed, and vice-versa.
 
 .. _controlsRed-reference-label:
 
 Red
 ^^^
 
-* The **'Q'** key activates your belt-light, illuminating dark areas.
+* The **'Q'** key activates your belt-light, illuminating dark areas, and partially protecting you from the effects the darkness might have on your sanity.
 * The **'F'** key activates your equipped talent (read: Power).
 * The **'G'** key calls your *Apparition* if you use the Phasmalist tree.
 * The **'V'** key calls your mount, assuming you have a mount.
@@ -82,7 +82,7 @@ Extra
 
 * The **'T'** key draws and stows your equipped weapon.
 * The **'O'** key toggles a shoulder swap, allowing you to choose which angle of third person you want to be using at any given time
-* The **'P'** key toggles your POV, though with Somnium you will want to play predominantly in third person.
+* The **'P'** key toggles your POV, as long as your weapons are sheathed.
 * The **Scroll Wheel** will allow you to quickly choose between targets while the *lock on* is active. 
 * The **'Caps Lock'** key will switch between your run and walk movements.
 * And the **'Right Alt'** key will toggle auto-move on and off.
@@ -123,7 +123,7 @@ Saving
 ^^^^^^
 Players will quickly notice that the settings menu no longer offers a ``Save`` function. The Earthen Reliquaries operate as your save points. Every time you back out from an Earthen Reliquary's menu your game will be automatically saved. This usually only takes a moment, and you will receive a notification when the game has completed saving. **Please do not close the game while it is saving.**
 
-The game also autosaves your progress every minute, making sure that you don't lose any progress should you need to log off without a shrine nearby. When you load your game after this, it will still spawn you at the last shrine you activated, however you will have all the progress you accomplished still standing and will only need to find your way back to the location you logged out from.
+The game also autosaves your progress every minute, making sure that you don't lose any progress should you need to log off without a shrine nearby. Because of this, you cannot ever go back in time. Any mistakes you make, or victories you achieve, will be a permanent part of your character's history. 
 
 .. _Combat-reference-label:
 
@@ -147,14 +147,14 @@ When your character is just starting out you have everything against you. It is 
 There are three core goals of the early game:
 
 #. Experiment with the weapons and armor you find.
-#. Be frugal with your use of talents and magic.
-#. Don't be afraid to get your teeth kicked in a few times.
+#. Be frugal with your use of talents, magic and potions.
+#. Don't be afraid to get your teeth kicked in a few times while fighting the enemies and in the never-ending combat with the Arcane Fever.
 
 Because Enderal does not use the typical Skyrim style of character growth, with skills only raising with use, all characters are free to make use of a variety of weapons to get the job done without fear of missing the experience gain in their primary skills.
 
-The early game will mostly be made up of learning experiences. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells and talents, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your spells/powers to win the fight. 
+The early game will mostly be made up of learning experiences, both in the way of mastering the combat, and in learning the patterns of the Anomalies. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells and talents, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your talents/potions to win the fight. 
 
-With the respawn mechanics, death is not as much an inhibitor to progress. Instead, it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
+With the respawn mechanics, death is not as much an inhibitor to progress. No progress is ever lost, not even the damage you deal to the enemies' health. Instead, it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. Or, if your foes are located near a reliquary, "throwing yourself" at them is an entirely viable option. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
 
 .. _combatGuns-reference-label:
 
@@ -191,7 +191,7 @@ Enderal introduced the idea of the Arcane Fever, however Somnium fully commits t
 
 Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
 
-As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their fever.
+As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the Sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their Fever. While Thaumaturges manipulate the Fever directly, either by lowering it, or "slowing it down".
 
 Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
 
