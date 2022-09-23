@@ -91,7 +91,7 @@ Note that some in-game settings and your game configuration in setup.bat will ge
 Problems with Wabbajack
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-trying Wabbajack at least once before posting anything, usually it will complete what it missed the first time. Check the ``overwrite`` box on the install page and Wabbajack will continue where it left off, so you lose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-trying Wabbajack at least once before posting anything, usually it will complete what it missed the first time. Check the ``overwrite`` box on the install page and Wabbajack will continue where it left off, so you lose no progress. If none of the tips here help, join our `Discord Community <https://discord.com/invite/nAQWr4VmG6>`_ and post a Wabbajack log in #somnium-support. You can find those in the logs folder of the folder where you installed Wabbajack.
 
 * 
   **Could not download X.** Sometimes Wabbajack times out while downloading a few mods.  In this case, you can re-run Wabbajack, check the ``Network Workaround`` box in settings and start the install again.  If this doesn't work, you can also try a VPN to change your download region.  We recommend ProtonVPN as a good free option.
@@ -116,6 +116,8 @@ Personalizing the Game
 ~~~~~~~~~~~~~~~~~~~~~~
 
 **There is no MCM customization necessary for Somnium**.  The MCM options for all mods are set automatically to Somnium's standard.
+
+If you are interested in adding/removing some mods from Somnium, feel free to join our Discord, and ask in the #somnium-going-rogue channel. We will try to help you with modifying the game as much as we can.
 
 
 
