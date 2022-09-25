@@ -16,8 +16,8 @@ Preamble
 
 
 .. image:: https://cdn.discordapp.com/attachments/819785065700655104/932776024398241802/Start_Screen.png
-   :target: https://cdn.discordapp.com/attachments/819785065700655104/932776024398241802/Start_Screen.png
    :alt: Banner
+   :align: center
 
 
 
