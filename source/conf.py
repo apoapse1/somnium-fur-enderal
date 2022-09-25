@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Somnium'
-#copyright = '2021, The Librum Team'
+copyright = '2022, Scenic Route Games'
 author = 'Scenic Route Games'
 
 # The full version, including alpha/beta/rc tags
