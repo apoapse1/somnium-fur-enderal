@@ -26,6 +26,7 @@ Preamble
    <div align="center"><b>With big thanks to the Somnium design team at Scenic Route Games. And a special thanks and acknowledgement to: Ixion XVII for all of his Enderal Gameplay Overhaul (EGO) mods and helpful advice, JDsmith for Enderal - My Way and providing us with the bones of Somnium. </b></div>
    <br/>
 ..
+
 *A flock of gulls brays against the clouds and a man stumbles through the streets. He mumbles against the world, his words just incantations of other lives. They strike someone and crash to the cobbles. Panic puts him quickly to his feet. The woman is yelling something about bees, but he hardly hears her. His eyes dart to the shadows where it hides. He can't see it, but he can feel the scorching oppression of its gaze. It shouldn't be here. The apartment is not far. The shadows goad him as he flees, their hungry eyes drool into the folds of dead banners and the cracks of brick and stone. His feet find their way home despite his thoughts. He crashes up the stairs and locks himself into the safety of home. Yet even here the chimes can find him. He throws open cupboards, earthenware and glass rain and pool at his feet. There it is. A light at sea. Greedy, shaking fingers bring glass lips to his own, eagerly accepting ambrosia's kiss. He slumps to the floor. His blood flees through scattered cuts as he becomes whole again.*
 
 .. raw:: html
