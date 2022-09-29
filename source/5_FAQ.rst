@@ -32,4 +32,10 @@ Gameplay of Somnium
  
 **The RTD pages were great, but I'd like to read more in-depth about Somnium's mechanics. Anywhere I can do that?**
  - While inside the game, open the Help menu. You can find it by pressing Esc, and it contains a lot of information on some of the more confusing mechanics, as well as tips for new players. Other than that, feel free to join our `Discord <https://discord.com/invite/BnUHUswABG>`_, where we can answer any questions you might have. While we won't spoil the details of the horror/Anomaly framework, we'll be glad to discuss any other topics. 
+ 
+**I am interested in trying Somnium out, but I prefer first person to third person view. Is there any way I can switch my POV?**
+ - Pressing P will change your camera's POV from 3rd person to 1st, and vice versa, **as long as your weapons are sheathed**. Once you take them out, the camera will always switch to 3rd person. Somnium is designed around that perspective, so fighting in 1st person would break many mechanics, most notably melee and long gun combat.
+ 
+**I would like to make some changes to my installation of Somnium. Is there any way I can get support for adding mods, or changing the mechanics?**
+ - Feel free to ask for any help related to modifying Somnium in the #somnium-going-rogue channel in our `Discord <https://discord.com/invite/BnUHUswABG>`_. While we  won't be able to help you with the removal of some of the existing mechanics (such as the death or AF system), we'll certainly try our best to aid you in making and debugging whatever changes you'd like to make.
 
