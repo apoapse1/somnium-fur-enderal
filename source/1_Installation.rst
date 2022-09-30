@@ -5,7 +5,7 @@ Somnium makes use of the excellent `Wabbajack <https://www.wabbajack.org/#/>`_ p
 Pre-Installation
 ^^^^^^^^^^^^^^^^
 
-There are a few things you will need to make sure to have before you can download and play Somnium. First and foremost, you will need at least **160GB** of free space for the Somnium installation on your Solid State Drive (SSD), and at least **64GB** for the Somnium downloads and **20GB** for Enderal SE on your Hard Disk Drive (HDD). To see which of your drives are SSD's and which are HDD's, press Win+R and type ``dfrgui``.
+There are a few things you will need to make sure to have before you can download and play Somnium. First and foremost, you will need at least **160GB** of free space for the Somnium installation on your Solid State Drive (SSD), and at least **64GB** for the Somnium downloads and **20GB** for Enderal SE. You can either store the latter two on your SSD or your "Hard Disk Drive" (HDD). To see which of your drives are SSD's and which are HDD's, press Win+R and type ``dfrgui``.
 
 You can delete the contents of the ``downloads`` and Enderal SE folders after Somnium is fully installed, however you will need to redownload all the mods and Enderal when you wish to update the list.
 
@@ -57,9 +57,9 @@ Download `Wabbajack.exe <https://github.com/wabbajack-tools/wabbajack/releases/l
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 3.1. Once Wabbajack is opened, click on the gear icon at the top right and login to your **Nexus Account**. **We absolutely recommend you have a premium subscription active for this account while you download Somnium.** Without a premium account, your download will take significantly longer.
  
-3.2. Create a folder named ``WJDownloads`` in the base of your HDD. For example, ``D:\WJDownloads``. You can also create it on your SSD, but that is not recommended, as it will simply take up space.
+3.2. Create a folder named ``WJDownloads`` in the base of your HDD. For example, ``D:\WJDownloads``. You can also create it on your SSD, if you aren't worried about the space it'll take up. And if you ever decide to try out other WJ lists, you can use this download folder for all of them.
 
-3.3. Create a folder named ``Somnium`` in the base of your SSD. For example, ``E:\Somnium`` or ``E:\Games\Somnium``. **We absolutely recommend you install Somnium on your Solid State Drive. Otherwise, your performance will be much worse, and the load times will be significantly higher.**
+3.3. Create a folder named ``Somnium`` in the base of your SSD. For example, ``E:\Somnium`` or ``C:\Games\Somnium``. **We absolutely recommend you install Somnium on your Solid State Drive. Otherwise, your performance will be much worse, and the load times will be significantly higher.**
 
 4. Finally Installing Somnium
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
