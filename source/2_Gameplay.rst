@@ -65,7 +65,7 @@ Green
 * The **'Left Shift'** key activates your dodge.
 * The **'C'** key changes your movement from running to sprinting.
 * The **'Left Control'** key allows you to lock on to an enemy.
-* And the **'Left Alt'** key serves as a modifier, and only works when holding a melee weapon. Pressing LMB while holding down Alt will cause you to perform a *Power Attack*. Pressing RMB while holding Alt will allow you to attack with the weapon in your right hand, whether it is a pistol or a magic spell. Quickly double-tapping Alt will change the *Grip* on your melee weapon. What that does, is switch the attack style of said weapon from one-handed to two-handed, and vice-versa.
+* And the **'Left Alt'** key serves as a modifier, and only works when holding a melee weapon. Pressing LMB while holding down Alt will cause you to perform a *Power Attack*. Pressing RMB while holding Alt will allow you to attack with the weapon in your left hand, whether it is a pistol or a magic spell. Quickly double-tapping Alt will change the *Grip* on your melee weapon. What that does, is switch the attack style of said weapon from one-handed to two-handed, and vice-versa.
 
 .. _controlsRed-reference-label:
 
