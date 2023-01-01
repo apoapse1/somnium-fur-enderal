@@ -174,6 +174,26 @@ Guns give characters a very powerful ranged option so long as they have the ammu
 And not only can any character make use of guns, but they are encouraged to do so. Somnium plays, in many ways, like a shooter. The inclusion of guns fundamentally alters the expectations of engagements.
 
 
+Melee Weapons
+^^^^^^^^
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Magic%20Casting.png
+   :alt: Melee Combat
+   :align: center
+
+In Somnium, melee combat has advanced as the world has progressed to a more civilized age. You will only find very few have maces, warhammers or war axes left in the world.  Instead, most melee weapons now belong to four main types: Thrusting swords, Curved swords, Katanas and Straight Swords (along with daggers for people of less repute). The movesets for these weapons have become much more elegant, allowing for multi-hit combos, pirouettes and quick hits after a well-timed dodge.  Experiment with each weapon type and discover for yourself what combat style suits you.  
+
+Each weapon type does have unique properties that can be used strategically depending on the enemy you are facing:
+
+   Rapiers, or thrusting swords, are the fastest and lightest weapons and have the lowest base damage, but are strong against enemies that wear dense layers of heavier    armor and have a longer reach.
+   
+   Curved swords are of average weight and damage and, due to their shape, are able to be swung faster and can cause bleeding with the right knowledge. However, they      are weak against dense, heavy armor and have a shorter reach.
+   
+   Straight swords are of above average weight and damage but swing more slowly.  They do not have an inherent weakness or bonus against heavy, padded armors.
+   
+   Katanas are, on average, the heaviest weapons in Somnium and carry the highest base damage.  They can also bleed enemies but their combat style, especially for the    largest of them, requires careful planning as each attack will potentially put the player out of optimal battlefield position.
+   
+Lastly, there are different variants of each of the above weapon types, ranging from dagger-sized thrusting stilettos and small, fast katanas called tantos to giant, curved sarass swords favored by the island nation of Kile and large, heavy claymores.  All of the melee weapons in Somnium can be switched from a one-handed to a two-handed grip to allow for even more flexibility during combat (Default key: double tap Alt). 
+
 .. _Magic-reference-label:
 
 Magic
