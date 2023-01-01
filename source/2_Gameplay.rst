@@ -12,20 +12,20 @@ Sections:
    :alt: Pistolshot
    :align: center
 
-Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your rifles have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks are accomplished with a modifying-key rather than a held normal input.
+Somnium is designed to be played in third person. Great effort has been made to bring this game into the modern feel of popular action games. You are able to lock on to targets, dodge with a keypress, your rifles have a proper aiming line so that you can easily tell where you will hit while in third person, and your power attacks or off-hand attacks are accomplished by holding down a modifying-key in combination with the attack rather than a held normal input.
 
-If you are interested in learning the specifics of all the mechanics, especially the more confusing ones, make sure to check out the help menu inside the game! You can find it by simply opening the pause menu (pressing Esc).
+There are many unique and, in some cases complex, mechanics in Somnium. There are now two options to learn the specifics of all the mechanics. First, make sure to check out the help menu inside the game! You can find it by simply opening the pause menu (pressing Esc). Second, there are now **Whispering Stones** that have been placed by other Prophets from other eventualities around the intro and tutorial areas.  These messages give you a small amount of experience and, more importantly, elucidate many of the complex mechanics that you will encounter. Seek them out and learn about the world you are about to irrevocably change with your decisions. 
 
 .. _Controls-reference-label:
 
 Controls
 --------
 
-In the end, Somnium is playable in third person from beginning to end, and this is the designed method of play. Since the 1.1 update, we have allowed the player to switch to first person mode, as long as their weapons are sheathed.
+Somnium is playable in third person from beginning to end, and this is the designed method of play. Since the 1.1 update, we have allowed the player to switch to first person mode (Default key: P), as long as their weapons are sheathed.
 
 However, these changes also brought necessary changes to the base controls of the game. Somnium adds elements from other genres into the world of Vyn, and many of these elements come with a standardized expectation of controls from players.
 
-Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind needed to be changed (it is now bound to the **'T'** key).
+Take, for instance, guns. Somnium adds a vast array of firearms for the character to wield, and these require ammunition to be loaded for use. Most modern games use the **'R'** key to reload their firearms; this has become an assumed norm. But in Enderal, Skyrim, and most other Bethesda games, the **'R'** key is used to draw and stow weapons. We decided that having the **'R'** key control reload was more important than drawing/stowing, and so the vanilla keybind for draw/sheathe needed to be changed and it is now bound to the **'T'** key.
 
 The controls for Somnium were decided after significant playtesting and deliberation, and we ended up with what we felt was the most comfortable blend of expectation and function that we could find.
 
@@ -104,20 +104,20 @@ In Somnium, death does not toss you back to a previous save. Instead, dying caus
 
 No one else even seems capable of noticing these petrified birds, nor do they seem to hear their rumbling call. But as you stand before them you can feel the power and sorrow of other lives, of other worlds, rolling upon you like gentle waves of some distant Sea.
 
-These avian shrines act as checkpoints. You are able to open an unlimited storage, skip time, and restore your Humanity at any shrine you find. 
+These avian shrines act as checkpoints. You are able to open an unlimited storage and restore your Humanity at any shrine you find using the ``Memories of Life`` you obtain as you explore. 
 
-The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town. You can also store useful preparation equipment such as buffing potions and the, now-heavy, Ambrosia.
+The Reliquaries utilize a shared storage, allowing you to pile your loot into them while out exploring and then draw it out in batches to sell back in town or take with you into the next stage of the crypt you are exploring. You can also store useful preparation equipment such as buffing potions and the, now-heavy, Ambrosia.
 
-The wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location. Be careful when doing so, however! Spending too much time at a reliquary or a bed may cause you to get the *Rested* effect, which lasts proportionally to the amount of time you've slept, thus stopping you from abusing certain mechanics related to the time.
+The wait function is limited to these shrines as well. If a quest requires you to be somewhere at a specific time of day, you can quickly pass the time at a nearby shrine and make it to the location. Be careful when doing so, however! Spending too much time at a reliquary or a bed may cause you to get the *Rested* effect, which lasts proportionally to the amount of time you've slept, thus stopping you from abusing certain mechanics related to the time.  Lastly, the wait function is only possible during the day and once night falls you will be unable to pass the time safely until the next morning.    
 
 .. _deathHumanity-reference-label:
 
 Humanity
 ^^^^^^^^
 
-Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. If your Humanity is ever completely lost, your story ends.
+Restoring your Humanity is an important function of the Reliquaries. As you die, your humanity is sapped from you based on the Fever level you held when you died. If your Humanity is ever completely lost, your story ends permanently.
 
-Characters can restore their humanity at Earthen Reliquaries by sacrificing a **Memory**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain entities in the world of Enderal that possess memories powerful enough to sacrifice should you be able to overcome their challenge.
+Characters can restore their humanity at Earthen Reliquaries by sacrificing a **Memory of Life**. These are fragments of other lives and distant times. The reliquaries grant you a glimpse of their old lives on your first visit to every shrine, and there are certain powerful entities in the world of Enderal that possess immensely strong memories should you be able to defeat them. These powerful memories now have a dual purpose, you can sacrifice them for a larger recovery of humanity **OR** you can absorb some of the accumulated knowledge of the entity to give yourself more talent uses per day (explained in further detail in the Combat section).  
 
 .. _deathSaving-reference-label:
 
@@ -138,7 +138,7 @@ Combat
 
 As stated earlier, combat in Somnium is dangerous. Low level characters are fragile, and death will come quickly. As you level up, explore, and find/make better gear you will quickly rise in power.
 
-There are a lot more options available to characters from the get-go than they would have in default Enderal. You can dodge away from enemy attacks now, giving a powerful defensive technique to every character that can make even low-level characters capable if the player knows how to use it.
+There are a lot more options available to characters from the get-go than they would have in default Enderal. You can dodge away from, or around, enemy attacks now, giving a powerful defensive technique to every character that can make even low-level characters capable if the player knows how to use it. Beware that dodging uses precious stamina and, as such, should be employed strategically.
 
 .. _combatEarly-reference-label:
 
@@ -149,14 +149,14 @@ When your character is just starting out you have everything against you. It is 
 There are three core goals of the early game:
 
 #. Experiment with the weapons and armor you find.
-#. Be frugal with your use of talents, magic and potions.
+#. Be frugal with your use of magic and healing potions i.e. things that inherently increase your Arcane Fever.
 #. Don't be afraid to get your teeth kicked in a few times while fighting the enemies and in the never-ending combat with the Arcane Fever.
 
-Because Enderal does not use the typical Skyrim style of character growth, with skills only raising with use, all characters are free to make use of a variety of weapons to get the job done without fear of missing the experience gain in their primary skills.
+Because Enderal does not use the typical Skyrim style of character growth, where skills are only raised with use, all characters are free allocate their skill points however they see fit and make use of a variety of weapons and tools to get the job done without fear of missing the experience gain in their primary skills.
 
-The early game will mostly be made up of learning experiences, both in the way of mastering the combat, and in learning the patterns of the Anomalies. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells and talents, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your talents/potions to win the fight. 
+The early game will mostly be made up of learning experiences, both in the way of mastering the combat, and in learning the patterns of the Anomalies. And this is fine. Number two exists to incentivize keeping your Arcane Fever low. It does not ask that you never use your spells, but instead to use them intelligently. Maybe plan to get into most fights using none of your magic and powers for the first go so that you can learn more about the enemies. Then you can come back, armed with that knowledge and your spells/potions to win the fight. 
 
-With the respawn mechanics, death is not as much an inhibitor to progress. No progress is ever lost, not even the damage you deal to the enemies' health. Instead, it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. Or, if your foes are located near a reliquary, "throwing yourself" at them is an entirely viable option. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories* at the start if you explore and search for them, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
+With the respawn mechanics, death is not as much an inhibitor to progress. No progress is ever lost, not even the damage you deal to the enemies' health. Instead, it allows you to quickly regroup and strategize better angles to approach a camp from, or better tools to bring with you when you go back to that dungeon. Or, if your foes are located near a reliquary, "throwing yourself" at them is an entirely viable option. So long as your fever is kept low, death is mostly a time setback. Plus, you are given a few *Memories of Life* as you explore and seek out reliquaries, so you can safely know you'll be able to recuperate your Humanity a few times if you do end up dying a lot with a high fever level.
 
 .. _combatGuns-reference-label:
 
@@ -191,17 +191,17 @@ Arcane Fever
 ^^^^^^^^^^^^
 Enderal introduced the idea of the Arcane Fever, however Somnium fully commits to it. For every spell, the aspiring arcanist must first reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*. This talent allows for a character to prepare spells in a system inspired by old Vancian magic systems.
 
-Using this talent to prepare spells brings the toll of the fever's growth upon the caster, but it also reduces their cost and increases your mana's ability to regenerate. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
+Using this talent to prepare spells opens up the player to increases in Arcane Fever with every spell prepared, but it also reduces the prepared spells' cost and drastically increases your mana regeneration.  The fever, therefore, is a necessary evil (or in certain cases a boon) for any aspiring mage and is something that is not avoidable. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
 
 As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the Sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their Fever. While Thaumaturges can manipulate the Fever directly, either by lowering it, or "slowing its rise".
-
-Spells are not the only fever inducing aspect of the character either. Your talents from all memory trees will cause the fever to rise as well, though they have been made more available by reducing their cooldowns.
 
 And of course, this fever is fueled further by imbibing any potions touched by magic and by proximity to residual magic energy in the world.
 
 The ability to reduce your fever is also more challenging than it was in Enderal. You'll find ambrosia now weighs more and its effect on your fever has been lessened. Powerful alchemists will still be able to push the usefulness of ambrosia further, and now the potency will be noticeably better than purchased vials.
 
 Characters are expected to be suffering from the effects of the fever as they progress through the game. The reasons and goals of this will be expanded on in the **Atmosphere** section. As a result of this, your character will not suffer the negative stat effects of the fever as it compounds, instead there are a variety of new gameplay alterations that the fever controls.
+
+With the 1.2 update, we have added an additional strategic layer to mage gameplay. *Peaceweed* has now been touched by the Sea of Eventualities, altering its properties and revealing all new functions that open the mind of the mage even further.  
 
 .. _magicMore-reference-label:
 
@@ -211,13 +211,14 @@ The number of spell effects have been greatly increased in Somnium as well. Play
 
 Players will find offensive Light Magic spells that will help them to better combat the Lost Ones, effective touch spells for the battlemage clad in heavy armor to use, and many more.
 
-With all of these, magic becomes a very effective and versatile skill set for the players that want to walk the line with their Arcane Fever.
+With all of these, magic becomes a very effective and versatile skill set for the players that want to walk the line, or even utilize their bond, with their Arcane Fever.
 
 Entropy Rework and New Summon Mechanics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-With the 1.1 update, Somnium recieved the largest overhaul of summon mechanics in Skyrim modding to date -- Apoapse's Accomplices. With it, the player no longer has access to distinct summon spells for different creatures – rather, the basic tool in your arsenal is the new talent Open Rift, available halfway up the Entropy tree. Open Rift opens a link to the Sea of Eventualities, bringing forth an otherworldly creature depending on location, skill, active effects, time of day, and more. We’ve introduced more than eight times the number of unique summons from vanilla Enderal, so there’s plenty of exploring to do!
+With the 1.1 update, Somnium recieved the largest overhaul of summon mechanics in Skyrim modding to date -- Apoapse's Accomplices. With it, the player no longer has access to distinct summon spells for different creatures – rather, the basic tool in your arsenal is the new talent Open Rift, available halfway up the Entropy tree. Open Rift opens a link to the Sea of Eventualities, bringing forth an otherworldly creature depending on location, skill, active effects, time of day, Arcane Fever level and more. We’ve introduced more than eight times the number of unique summons from vanilla Enderal, so there’s plenty of exploring to do!
 
 Now, this is only a fraction of what Accomplices does. For one, since Open Rift is so taxing, you won’t have to cast it all the time. Rather, each summon sticks around until killed, and each summon provides unique skill benefits when in your party. As such, finding appropriate summons – and keeping them alive throughout your adventure – is the new name of the game in Entropy.
 
 To keep summons alive, you’ll need to make use of the newly expanded Entropy school. Instead of summon spells, the Entropy school is full of spells to affect summons in unique ways: teleport them around the battlefield or store them in a pocket dimension, absorb their taken damage onto yourself, grant them extra lives, and much more. 
 
+Lastly, in 1.0 we completely overhauled the summon weapon mechanics of Enderal, resulting in simultaneously more flashy and more functional bound weapon gameplay.  Now, in 1.2, we have finally made the summoning of bound weapons affordable for the aspiring battlemage that wants to wade into the fray with a blade pulled directly from another eventuality.
