@@ -21,7 +21,7 @@ Setup and Installation
  - We have packaged a few ENB presets with Somnium. The default is Medium, but you can choose the one you want in setup.bat. Select the low preset if you are struggling to run the game at a proper framerate. Lowering the resolution and using the medium DynDOLOD preset can help with the FPS as well.  The resolution scale in the ``Graphics Options`` section of the launcher allows you another method to gain performance.  By setting the value to just below 1.0 (we recommend starting at 0.9) you can see significant gains in framerate with a negligible loss in image quality.
  
 **Can you play Somnium with a controller?**
- - Not natively. However, you can reconfigure the controller keys with Steam. Simply right click on Enderal SE, go to Properties, Controller, and Enable Steam Input. After, you can change the controller buttons in-game to correspond to whatever you want. Take a look at the `Control Scheme <https://somnium-fur-enderal.readthedocs.io/en/latest/2_Gameplay.html#controls>`_ Somnium uses, to get an idea of what key configuration you should use.
+ - Yes you can! However, we do not have a default set of controller keybinds as this would vary widely by controller and user preference. We recommend setting up your controller for use through the Steam interface. Simply right click on Enderal SE, go to Properties, Controller, and Enable Steam Input. After that, you can change the controller buttons in the Steam controller bindings menu to match what you would prefer for Somnium's control scheme. Take a look at the `Control Scheme <https://somnium-fur-enderal.readthedocs.io/en/latest/2_Gameplay.html#controls>`_ , to get an idea of what key configuration you should use.
 
 
 Gameplay of Somnium
