@@ -194,6 +194,37 @@ Each weapon type does have unique properties that can be used strategically depe
    
 Lastly, there are different variants of each of the above weapon types, ranging from dagger-sized thrusting stilettos and small, fast katanas called tantos to giant, curved sarass swords favored by the island nation of Kile and large, heavy claymores.  All of the melee weapons in Somnium can be switched from a one-handed to a two-handed grip to allow for even more flexibility during combat (Default key: double tap Alt). 
 
+Talents
+^^^^^^^^
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Magic%20Casting.png
+   :alt: Talent usage
+   :align: center
+   
+In the 1.2 update, we have completely revamped how players will interact with the talents they accumulate as their character grows.  Previously, each talent had an associated arcane fever cost and a unique cooldown that could be lowered with increasing perk investment.  Now, players will have a pool of charges that they can spend to use talents, with most talents costing 3 charges at their base level.  Investing into higher tiers of the talent will lower the charge cost, down to 1 charge for most talents at their max level.  Players will start the game with 8 charges to use as they see fit, and these charges will replenish at the beginning of every new day. 
+
+Several things to note:
+
+#. not all talents are included in this system, namely *Augury*, *Open Rift*, *Well of Life* and *Elemental Attunement*. These talents function as they did in version 1.1.
+#. The player begins the game with eight charges, but players can increase their total pool by hunting down powerful enemies and using their memories.
+#. Players will also gain three additional charges when they progress enough to choose an affinity.
+#. Not all talents cost 3 charges at the first tier, with some of the more powerful talents costing more charges.  These talents will generally still reduce in cost with higher tiers of investment.
+
+Poise
+^^^^^^^^
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Magic%20Casting.png
+   :alt: Poise
+   :align: center
+
+The type of armor a player wears and the weapons that they use are now more important than ever before.  We have implemented a fully customized poise system into Somnium 1.2 that will fundamentally change how players engage in combat.  Details will be listed below but the visual representation of your poise is represented in the small bar above the three-stat bar, as seen in the image above.  This bar will reduce as your poise is damaged, with increasing flinching occuring as your poise health decreases, and ultimately experiencing a full stagger if the bar is emptied.  Poise health will reset to full if you can avoid getting hit for 5 seconds and all of the poise mechanics also apply to your enemies, so plan your engagements strategically.  
+
+Players and NPCs that wear heavy armor will have poise health that scales with their equipped weight, level, Heavy Armor skill and armor rating.  Heavy armor poise functions as described above, with poise health taking damage as the player takes damage and recovering after not being hit for a short time.  Players wearing heavy armor and fully investing in it should be able to shrug off light blows with ease and approach enemy wild mages with a bit more confidence.
+
+Players and NPCs that wear light armor will also have a much lower poise health and will be unable to tank incoming hits with interruption. However, light armor affords both players and NPCs hyperarmor, significantly decreasing the poise damage taken while performing certain actions such as attacking or casting a spell.  The amount of poise damage reduced during actions scales dramatically with light armor skill, allowing an agile player that has heavily invested in it to shrug off most blows while attacking.
+
+The ability of the player and NPCs to deal poise damage with melee weapons is dependent on both the weight of the weapon, the amount of damage dealt and how much power is put into the attack, allowing for both to deal more poise damage naturally as the game progresses.  More specifically, melee weapon types in Somnium have unique poise damage modifiers, with poise damage increasing low-to-high as follows: daggers, curved swords, katanas, thrusting swords, straight swords.  Poise damage dealt by both firearms and magic is based on how damaging the blow is and poise damage can be reduced, but not eliminated, by blocking.  To counter enemies that are highly aggressive, a timed bash during an attack will cause a significant amount of poise damage.  
+
+Lastly, we have reworked and updated all armor weights and armor rating values, along with all weapon weights and base damage to all fit within the above system. 
+
 .. _Magic-reference-label:
 
 Magic
@@ -211,7 +242,7 @@ Arcane Fever
 ^^^^^^^^^^^^
 Enderal introduced the idea of the Arcane Fever, however Somnium fully commits to it. For every spell, the aspiring arcanist must first reach for the effect across the infinity that is the Sea of Eventualities. They do this with the new magic talent: *Augury*. This talent allows for a character to prepare spells in a system inspired by old Vancian magic systems.
 
-Using this talent to prepare spells opens up the player to increases in Arcane Fever with every spell prepared, but it also reduces the prepared spells' cost and drastically increases your mana regeneration.  The fever, therefore, is a necessary evil (or in certain cases a boon) for any aspiring mage and is something that is not avoidable. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.
+Using this talent to prepare spells opens up the player to increases in Arcane Fever with every spell prepared, but it also reduces the prepared spells' cost and drastically increases your mana regeneration.  The fever, therefore, is a necessary evil (or in certain cases a boon) for any aspiring mage and is something that is not avoidable. Additionally, some spells, those that deal in the more personal invitations to the Sea, cause a constant uptick of this fever for as long as they are active.  Also be aware that as the fever increases, so does the likelihood that a spell will fail outright when cast.
 
 As prospective wizards evolve and improve in their chosen magic schools, they will start to find unique ways their mastery allows for them to interact with this Vancian system. Elementalists might be able to focus into a random element for a time, allowing them to channel those spells without fever cost if they can ride that wave. And those drawn to the Sinistrope may be able to make some sinister bargain allowing them to spend their own humanity in place of their Fever. While Thaumaturges can manipulate the Fever directly, either by lowering it, or "slowing its rise".
 
@@ -221,7 +252,7 @@ The ability to reduce your fever is also more challenging than it was in Enderal
 
 Characters are expected to be suffering from the effects of the fever as they progress through the game. The reasons and goals of this will be expanded on in the **Atmosphere** section. As a result of this, your character will not suffer the negative stat effects of the fever as it compounds, instead there are a variety of new gameplay alterations that the fever controls.
 
-With the 1.2 update, we have added an additional strategic layer to mage gameplay. *Peaceweed* has now been touched by the Sea of Eventualities, altering its properties and revealing all new functions that open the mind of the mage even further.  
+With the 1.2 update, we have added an additional strategic layer to mage gameplay. *Peaceweed* has now been touched by the Sea of Eventualities, altering its properties and revealing all new functions that open the mind of the mage even further.  Now, players can smoke one portion of peaceweed to temporarily reduce their arcane fever by a small amount. **More importantly**, while under the influence, players' spells will no longer fail regardless of their Arcane Fever level.  This effect last until the player dies or sleeps. Beware however, if you die while under the effects of peaceweed the Arcane Fever that you initially reduced will rebound on you two-fold.  
 
 .. _magicMore-reference-label:
 
@@ -241,4 +272,4 @@ Now, this is only a fraction of what Accomplices does. For one, since Open Rift 
 
 To keep summons alive, you’ll need to make use of the newly expanded Entropy school. Instead of summon spells, the Entropy school is full of spells to affect summons in unique ways: teleport them around the battlefield or store them in a pocket dimension, absorb their taken damage onto yourself, grant them extra lives, and much more. 
 
-Lastly, in 1.0 we completely overhauled the summon weapon mechanics of Enderal, resulting in simultaneously more flashy and more functional bound weapon gameplay.  Now, in 1.2, we have finally made the summoning of bound weapons affordable for the aspiring battlemage that wants to wade into the fray with a blade pulled directly from another eventuality.
+Lastly, in 1.0 we completely overhauled the summon weapon mechanics of Enderal, resulting in simultaneously more flashy and more functional bound weapon gameplay.  Now, in 1.2, we have finally made the summoning of bound weapons affordable for the aspiring battlemage that wants to wade into the fray wielding a blade pulled directly from another eventuality.
