@@ -5,6 +5,7 @@ Atmosphere
 Sections:
 
 * :ref:`Equipment-reference-lable`
+* :ref:`Economy-reference-lable`
 * :ref:`Interface-reference-lable`
 * :ref:`Worldspace-reference-lable`
 * :ref:`Anomalies-reference-lable`
@@ -33,6 +34,19 @@ The denizens of Enderal now sport a whole new array of clothing that fits the ti
 Beyond the clothing of everyday citizens, those of a rougher persuasion will find their tools have changed too. Plate armor has faded into obscurity and the weapons designed to combat it followed soon after. Now is an age of the duelist. The people of the world will sport a variety of new blades and armored vestments.
 
 Now, in version 1.2, the tailors and armorers of Enderal have devised a way for the fashion-forward adventurer to maintain the functionality and defense of their favorite armor and simultaneously show their fanciest outfit over the top.  Players that care about fashion can satisfy their souls by going into the MCM menu and creating outfits out of their favorite armor sets.   This can only be done on the armor taht the player is currently wearing but multiple can be stored and switched to at will.
+
+Also new in 1.2, the numerous sets of armor that can be found, or crafted, throughout Enderal have seen a significant revamp.  Each set piece has had its power increased significantly and the set bonuses have seen some drastic changes and upgrades.  Some sets have been changed completely to complement a specific playstyle, and some playstyles that were never covered by any of the set enchantments are now represented.  One example is the Venturer set, which originally was designed as an armor set with generic bonuses to rogue/thief gameplay.  Now, the venturer set is strongly geared toward players that want to utilize phasmalism and ranged weapons to defeat their enemies.  Explore and experiment to discover all the new sets for yourself!
+
+.. _Economy-reference-lable:
+
+Economy
+--------------------
+
+.. image:: https://raw.githubusercontent.com/apoapse1/somnium-fur-enderal/main/Resources/Attire%20Wandering.png
+   :alt: newclothes
+   :align: center
+
+
 
 .. _Interface-reference-lable:
 
