@@ -6,7 +6,7 @@ Sections:
 Character Growth
 ----------------
 
-In Enderal, characters level up and grow in power through different means compared to Skyrim. Most of your experience points are going to come from completing quests and killing enemies rather than from making use of specific skills. If you are new to Enderal, the following section can help introduce you to some of the systems it changes involving character growth. If you are have played Enderal before, and are only new to Somnium, then you can skip down to :ref:`growthSomniumLeveling` to see the changes we have made to Enderal's base systems.
+In Enderal, characters level up and grow in power through different means compared to Skyrim. Most of your experience points are going to come from completing quests and killing enemies rather than from making use of specific skills. If you are new to Enderal, the following section can help introduce you to some of the systems it changes involving character growth. If you have played Enderal before, and are only new to Somnium, then you can skip down to :ref:`growthSomniumLeveling` to see the changes we have made to Enderal's base systems.
 
 .. _growth-reference-label:
 
@@ -16,7 +16,7 @@ Enderal completely removes the Skills menu from Skyrim. You are no longer able t
 
 Here you can find an assortment of pillars that act as the new perk trees. Each level gives the character 1 memory point which they can spend at these pillars to unlock a perk. 
 
-Level ups also grant the player 5 skill points, and 4 crafting points, which they can normally use to read skill books, and this will raise their skills.
+Level ups also grant the player 5 skill points, and 4 crafting points, which they can use to raise their corresponding skills.
 
 Your skill points can be spent to increase:
 
@@ -42,7 +42,7 @@ Your crafting points can be spent to increase:
 #. Handicraft
 #. Rhetoric
 
-In Somnium, the method to spend skill and crafting points has been altered and will be covered in the following section.
+In Somnium, the method to spend skill and crafting points has been altered from Enderal, where the player would spend their skill points reading books to improve said skills, and these changes will be covered in the following section.
 
 .. _growthSomniumLeveling-reference-label:
 
@@ -52,18 +52,20 @@ Somnium maintains most of Enderal's changes to leveling up and growing your char
 
 Instead of buying tiered books from select vendors, Somnium allows characters to spend their points directly in this space.
 
-You can now do all the leveling you need from here. And, as a bonus, you are also able to completely refund all memory, skill, and crafting points from here so that you can try whichever build you would like and change it up if you want to try something new.
+You can now do all the leveling you need from here. And, as a bonus, you are also able to completely refund all memory, skill, and crafting points from here so that you can try whichever build you would like and change it up if you want to try something new. Be aware that stripping your character of all their memories is a damaging process and will require the player to sacrifice some of their humanity.
 
 .. _Affinities-reference-label:
 
 Affinities
 ----------
 
-In the base game, and even Forgotten Stories, the affinities available to use required characters to build into a selection of skills to reach an affinity. There was no guarantee that all skill pairs would achieve an affinity.
+In the base game, and even Forgotten Stories, the affinities available required characters to invest memory points into specific combinations of perk trees to earn an affinity. However, not all perk tree combinations would grant an affinity.
 
 This is changed in Somnium. Now, regardless of the skills you perk into, you will achieve an affinity that will boost the potency of that build and make you stronger.
 
-This allows for all kinds of new, interesting character archetypes to flourish against the harsh world they must face. With the ability to respec your character at any time, players are encouraged to mess around and find combinations that they really enjoy.
+This allows for all kinds of new, interesting character archetypes to flourish against the harsh world they must face. With the ability to respec your character at any time, players are encouraged to experiment and find combinations that they really enjoy, just keep an eye on your own humanity in the process.
+
+With version 1.2, a key change has been made to the Heavy Scout affinity, giving it a very unique bleed-based talent. If you have ever thought that bleeding damage in Enderal was boring or one dimensional, we encourage you to try out the new Heavy Scout.  You can earn this affinity by investing in Keeper and either Highwayman or Duelist.
 
 List of Affinities
 ^^^^^^^^^^^^^^^^^^
@@ -116,8 +118,8 @@ Enhances Health and Mana by 25. Boosts Heavy Armour, Entropy, and Psionics skill
 **Harper's Assassin** [Sharpshooter + Infiltrator]
 Enhances Stamina by 40. Boosts both Sneaking and Marksman skills by 14 points. When wielding a long gun, you move much quieter, and your attacks have an additional 20% chance for critical hits.
 
-**Heavy Scout** [Keeper + Highwayman]
-Enhances Health and Stamina by 25. Boosts Pistols and Heavy Armour skills by 12 points. Attacks made with a pistol deal 3 points of bleeding damage for 5s. Enemy damage resistance is reduced by 10% for 3 seconds
+**Heavy Scout** [Keeper + Highwayman/Duelist]
+Boosts Health and Stamina by 25. Raises Pistols, Fencing and Heavy Armor by 9 points. Attacks made with a pistol deal 3 points of bleeding damage for 5s. Grants the Hemorrhage talent, which ends all active bleeds in a melee range area of effect, instantly dealing all remaining stacked bleed damage. This talent costs 2 charges.
 
 **Inquisitor** [Sharpshooter + Any Mage Branch]
 Enhances Stamina and Mana by 25 points. Boosts Marksmanship, Mentalism, Elementalism, Psionics, and Entropy skills by 6. You deal 15% more damage with long guns if you have less than 50% Mana. Your spells are 15% stronger and last 10% longer if you have more than 50% Mana.
